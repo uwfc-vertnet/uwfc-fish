@@ -1,0 +1,80 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 666
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: France ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 1
+	Date: 2015-01-05 ; Times: 2
+	Date: 2015-01-06 ; Times: 4
+	Date: 2015-01-08 ; Times: 4
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:uwfc" ; Times: 1
+	Query: "institutioncode:uwfc vessel" ; Times: 4
+	Query: ""black river" King washington" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Actinopterygii" ; Times: 4
+	Query: "redside dace" ; Times: 1
+	Query: "specificepithet:polynema genus:Caulophryne" ; Times: 2
+	Query: "Stegastes acapulcoensis" ; Times: 1
+	Query: "specificepithet:clarkii genus:Oncorhynchus" ; Times: 1
+	Query: "salvelinus fontinalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 445 download events in this period)
+Total number of records downloaded: 61 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 61
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "w-nigrum" ; Times: 1
+	Query: "Gobiidae tissue:1" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "distance(location,geopoint(40.60387435807246,-73.85421752929688))<9650.626978131286" ; Times: 1
+	Query: "chamela" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 9
+Total number of records retrieved from searches: 615
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 61
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 1281
+Number of download events that retrieved data from the resource: 7
+Total number of records downloaded: 95
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
