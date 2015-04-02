@@ -1,0 +1,99 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 652
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Japan ; Times: 2
+	Country: Russia ; Times: 9
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 22
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-13 ; Times: 7
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 2
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "perccottus" ; Times: 2
+	Query: "plectroglyphidodon country:"Marshall Islands"" ; Times: 1
+	Query: "acanthurus achilles country:"Marshall Islands"" ; Times: 1
+	Query: "stethojulis country:"Marshall Islands"" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Actinopterygii institutioncode:UWFC" ; Times: 1
+	Query: "Dascyllus country:"Marshall Islands"" ; Times: 2
+	Query: "Holtbyrnia latifrons" ; Times: 2
+	Query: "canthigaster country:"Marshall Islands"" ; Times: 2
+	Query: "acanthurus nigricans country:"Marshall Islands"" ; Times: 1
+	Query: "blue marlin" ; Times: 1
+	Query: "coris aygula" ; Times: 2
+	Query: "canthigaster amboinensis" ; Times: 1
+	Query: "acanthurus achilles" ; Times: 1
+	Query: "minous" ; Times: 2
+	Query: "coris gaimard country:"Marshall Islands"" ; Times: 2
+	Query: "minous inermis" ; Times: 1
+	Query: "scorpaenopsis diabolus country:"Marshall Islands"" ; Times: 1
+	Query: "ambassis urotaenia" ; Times: 4
+	Query: "acanthurus olivaceus country:"Marshall Islands"" ; Times: 1
+	Query: "Pervagor country:"Marshall Islands"" ; Times: 1
+	Query: "Holtbyrnia innesi" ; Times: 2
+	Query: "racoon" ; Times: 1
+	Query: "catalognumber:000250" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Actinopterygii" ; Times: 6
+	Query: "mirorictus" ; Times: 1
+	Query: "mentodus eubranchus" ; Times: 2
+	Query: "maulisia argipalla" ; Times: 1
+	Query: "Scutiger" ; Times: 2
+	Query: "catalognumber:090827" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 298 download events in this period)
+Total number of records downloaded: 15317 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 15317
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "tuna year >= 1950 year <= 1970 mappable:1" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "C. nana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 62
+Total number of records retrieved from searches: 1322
+Number of download events that retrieved data from the resource: 14
+Total number of records downloaded: 15397
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 78
+Total number of records retrieved from searches: 1988
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 15431
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
