@@ -1,0 +1,126 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 413
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-08 ; Times: 2
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 4
+	Date: 2015-06-11 ; Times: 5
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-15 ; Times: 4
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-19 ; Times: 6
+	Date: 2015-06-23 ; Times: 3
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "124336" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<100000" ; Times: 1
+	Query: "130658" ; Times: 1
+	Query: "117737" ; Times: 1
+	Query: "Eucryphycus californicus" ; Times: 10
+	Query: "BPBM tissue:1" ; Times: 1
+	Query: "mako" ; Times: 1
+	Query: "coris gaimard" ; Times: 2
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<68974" ; Times: 1
+	Query: "fucus mappable:1" ; Times: 1
+	Query: "Cephalopholis acanthistius type:specimen" ; Times: 1
+	Query: "catalognumber:125769" ; Times: 1
+	Query: "catalognumber:130387" ; Times: 1
+	Query: "Phenacobius mirabilis tallapoosa river" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<51798" ; Times: 1
+	Query: "distance(location,geopoint(58.07787626787517,-35.771484375))<100000" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<51797.83796376453" ; Times: 1
+	Query: "137212" ; Times: 1
+	Query: "Notropis uranoscopus tallapoosa river" ; Times: 1
+	Query: "129469" ; Times: 1
+	Query: "Whale skeleton" ; Times: 3
+	Query: "137167" ; Times: 1
+	Query: "GC-2004-13" ; Times: 1
+	Query: "blackfeet" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "Oncorhynchus aguabonita" ; Times: 1
+	Query: "snailfish" ; Times: 1
+	Query: "catalognumber:120059" ; Times: 1
+	Query: "112895" ; Times: 3
+	Query: "130976" ; Times: 2
+	Query: "catalognumber:130386" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 1
+	Query: "Luxilus zonistius tallapoosa river" ; Times: 2
+	Query: "thalassoma trilobatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1524 download events in this period)
+Total number of records downloaded: 270 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 240
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "israel" ; Times: 1
+	Query: "neff" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+	Query: "Kuwait" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 153
+Total number of records retrieved from searches: 2164
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 15816
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 169
+Total number of records retrieved from searches: 2830
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 15850
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
