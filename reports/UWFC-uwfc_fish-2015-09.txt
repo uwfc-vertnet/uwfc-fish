@@ -1,0 +1,123 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 255
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 33
+	Country: Russia ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 8
+	Date: 2015-09-04 ; Times: 6
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-24 ; Times: 6
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 5
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Aulichthys" ; Times: 1
+	Query: "distance(location,geopoint(29.0802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(53.69670647530323,-174.55078125))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(26.9802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "Spinachia" ; Times: 1
+	Query: "fasciatus sonora" ; Times: 1
+	Query: "locality:amchitka stateprovince:&#34;alaska&#34; year &gt;= 1956 year &lt;= 1963" ; Times: 1
+	Query: "distance(location,geopoint(28.3802369569,-112.449505705))&lt;10000" ; Times: 1
+	Query: "Aulorhynchus" ; Times: 1
+	Query: "pig tissue:1" ; Times: 2
+	Query: "Neoclinus" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "wizard" ; Times: 8
+	Query: "carex" ; Times: 2
+	Query: "137626" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "class:Actinopterygii kino" ; Times: 1
+	Query: "catalognumber:128553" ; Times: 1
+	Query: "Hexanchus" ; Times: 1
+	Query: "minous cas" ; Times: 1
+	Query: "genus:Oncorhynchus tissue:1" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "distance(location,geopoint(54.36775852406841,-171.8701171875))&lt;100000" ; Times: 1
+	Query: "syngnathoides biaculeatus" ; Times: 2
+	Query: "san juan islands garrison bay" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 11
+	Query: "Hypoptychus" ; Times: 1
+	Query: "minous monodactylus" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "baxteri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1045 download events in this period)
+Total number of records downloaded: 749
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "stahl" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "genus:aequidens" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "PNG" ; Times: 2
+	Query: "New Guinea" ; Times: 2
+
+
+End of report.
