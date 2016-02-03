@@ -1,0 +1,107 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 6
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 4
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:productus genus:Rhinobatos continent:North America" ; Times: 1
+	Query: "JWS 170" ; Times: 1
+	Query: "pantera" ; Times: 1
+	Query: "Graham Island British Columbia 1931" ; Times: 1
+	Query: "North Island British Columbia 1930" ; Times: 2
+	Query: "synagrops philippinensis" ; Times: 1
+	Query: "pholis ornata" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "type:specimen catalognumber:029329" ; Times: 2
+	Query: "mummy" ; Times: 4
+	Query: "wizard" ; Times: 5
+	Query: "meleagrides" ; Times: 1
+	Query: "126521" ; Times: 1
+	Query: "uranoscopus red sea" ; Times: 1
+	Query: "pholis schultzi" ; Times: 1
+	Query: "queen snake" ; Times: 1
+	Query: "121056" ; Times: 2
+	Query: "Graham Island British Columbia 1936" ; Times: 1
+	Query: "Langara Island" ; Times: 1
+	Query: "unicorn" ; Times: 14
+	Query: "institutioncode:uwfc" ; Times: 2
+	Query: "aneus" ; Times: 1
+	Query: "type:specimen catalognumber:001726" ; Times: 1
+	Query: "Parry Passage British Columbia" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "baxteri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 823 download events in this period)
+Total number of records downloaded: 150283
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:uwfc" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+
+
+End of report.
