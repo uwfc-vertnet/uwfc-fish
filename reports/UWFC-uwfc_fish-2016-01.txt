@@ -1,0 +1,120 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 204
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 21
+	Country: Russia ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-25 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Microgadus country:&#34;United States&#34;" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "family:Lotidae country:&#34;United States&#34;" ; Times: 1
+	Query: "minous inermis" ; Times: 1
+	Query: "Syngnathidae tissue:1" ; Times: 4
+	Query: "faku" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "116441" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "unicorn" ; Times: 8
+	Query: "cichlid" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-114.717516))&lt;15000" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "mud snake" ; Times: 2
+	Query: "minous" ; Times: 1
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "eq" ; Times: 1
+	Query: "108529" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 507 download events in this period)
+Total number of records downloaded: 47202
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 12
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-03 ; Times: 15
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
