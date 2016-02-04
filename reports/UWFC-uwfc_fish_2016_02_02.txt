@@ -1,0 +1,138 @@
+Report for Institution Code UWFC, Resource ADULT COLLECTION
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 204
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Russia ; Times: 19
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 6
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Microgadus country:"United States"" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "family:Lotidae country:"United States"" ; Times: 1
+	Query: "minous inermis" ; Times: 1
+	Query: "Syngnathidae tissue:1" ; Times: 4
+	Query: "faku" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "unicorn" ; Times: 8
+	Query: "distance(location,geopoint(27.389036,-114.717516))<15000" ; Times: 1
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "125417" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "mud snake" ; Times: 2
+	Query: "minous" ; Times: 1
+	Query: "cichlid" ; Times: 1
+	Query: "eq" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "116441" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 507 download events in this period)
+Total number of records downloaded: 47202 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 46781
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 15
+	Date: 2016-01-05 ; Times: 12
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:"United States"" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "family:Catostomidae country:"United States"" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Mugilidae country:"United States"" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:"United States"" ; Times: 1
+	Query: "family:Moronidae country:"United States"" ; Times: 1
+	Query: "family:Engraulidae country:"United States"" ; Times: 1
+	Query: "family:Poeciliidae country:"United States"" ; Times: 1
+	Query: "family:Esocidae country:"United States"" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "family:Amblyopsidae country:"United States"" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Sciaenidae country:"United States"" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:"United States"" ; Times: 1
+	Query: "family:Pleuronectidae country:"United States"" ; Times: 1
+	Query: "family:Gobiidae country:"United States"" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: ""False Bay"" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))<87926.45562583183" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "family:Percopsidae country:"United States"" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:"United States"" ; Times: 1
+	Query: "family:Cyprinidae country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 47202
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 46
+Total number of records retrieved from searches: 204
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 47202
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
