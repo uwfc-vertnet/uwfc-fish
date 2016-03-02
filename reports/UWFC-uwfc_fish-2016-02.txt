@@ -1,0 +1,97 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 514
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 16
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-06 ; Times: 2
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 16
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-05 ; Times: 9
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Alloclinus holderi" ; Times: 1
+	Query: "Sebastes diploproa" ; Times: 1
+	Query: "panthera tissue:1" ; Times: 3
+	Query: "Sebastes rosaceus" ; Times: 1
+	Query: "Jordania zonope" ; Times: 1
+	Query: "Eastern Pacific Bonito" ; Times: 1
+	Query: "Chirolophis nugator" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "wizard" ; Times: 7
+	Query: "macropinna microstoma" ; Times: 2
+	Query: "Sebastes chrysomelas" ; Times: 1
+	Query: "bucher" ; Times: 2
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "Enophrys bison" ; Times: 1
+	Query: "Finescale Triggerfish" ; Times: 1
+	Query: "Sebastes nebulosus" ; Times: 1
+	Query: "Sebastes maliger" ; Times: 1
+	Query: "Hyperprosopon ellipticum" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Sebastes carnatus" ; Times: 1
+	Query: "Ronquilus jordani" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "sargocentron ams" ; Times: 1
+	Query: "paragobiodon melanosoma" ; Times: 1
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "Sebastes auriculatus" ; Times: 1
+	Query: "Sebastes caurinus" ; Times: 1
+	Query: "Sebastes miniatus" ; Times: 1
+	Query: "polypterus bichir" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "Sebastes serriceps" ; Times: 1
+	Query: "Pacific Mackerel" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 512 download events in this period)
+Total number of records downloaded: 21135
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:actinopterygii mappable:1 stateprovince:Washington" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Idaho" ; Times: 2
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "sculpin" ; Times: 1
+
+
+End of report.
