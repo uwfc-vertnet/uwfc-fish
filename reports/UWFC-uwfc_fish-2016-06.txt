@@ -1,0 +1,167 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 565
+Number of records retrieved in searches: 13189
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 518
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 14
+	Country: Mexico ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 469
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-23 ; Times: 4
+	Date: 2016-06-08 ; Times: 9
+	Date: 2016-06-21 ; Times: 12
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 5
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 10
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-13 ; Times: 9
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 21
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-07 ; Times: 9
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "bison bison   " ; Times: 12
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 123
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "specificepithet:mysticetus genus:Cetengraulis" ; Times: 3
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "129246" ; Times: 1
+	Query: "147216" ; Times: 1
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 17
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:horrens genus:Prionotus" ; Times: 1
+	Query: "specificepithet:sexfasciatum genus:Haemulon" ; Times: 1
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "specificepithet:delicatissima genus:Anchoa" ; Times: 2
+	Query: "127250" ; Times: 2
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "120059" ; Times: 1
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "128775" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "128776" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "131078" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 27
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 9
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "specificepithet:serrula genus:Pristigenys" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "mummy" ; Times: 5
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "genus:Mola" ; Times: 4
+	Query: "152658" ; Times: 1
+	Query: "specificepithet:orientalis genus:Sarda" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "Gigantactis" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "polypterus bichir" ; Times: 14
+	Query: "137030" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "lagocephalus suezensis" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "novaculichthys macrolepidotus" ; Times: 1
+	Query: "paraplagusia bilineata" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 8
+	Query: "rainbow snake" ; Times: 1
+	Query: "specificepithet:ditropis genus:Lamna" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 18
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 3
+	Query: "specificepithet:labriformis genus:Epinephelus" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "specificepithet:acclivis genus:Larimus" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "102893" ; Times: 1
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "pseudocheilinus tetrataenia marshall" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 5
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 2
+	Query: "specificepithet:guttulatus genus:Hippocampus" ; Times: 2
+	Query: "106011" ; Times: 3
+	Query: "150922" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "White marlin" ; Times: 4
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "112237" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "150223" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "San Martin Island AND Mexico NOT LVB NOT Burt NOT Willett NOT LAmb NOT Tevis" ; Times: 1
+	Query: "134397" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "103398" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 18
+	Query: "Isla Coronados Mexico AND 1949" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "specificepithet:compressa genus:Anchoa" ; Times: 3
+	Query: "127778" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1052 download events in this period)
+Total number of records downloaded: 614
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
