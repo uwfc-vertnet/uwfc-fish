@@ -1,0 +1,224 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 291
+Number of records retrieved in searches: 7662
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 265
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 6
+	Date: 2016-08-15 ; Times: 6
+	Date: 2016-08-16 ; Times: 14
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-19 ; Times: 43
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 7
+	Date: 2016-08-21 ; Times: 9
+	Date: 2016-08-20 ; Times: 184
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-31 ; Times: 5
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-22 ; Times: 5
+	Date: 2016-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:speciosus genus:Gnathanodon" ; Times: 2
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:cyprinoides genus:Megalops" ; Times: 2
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 41
+	Query: "133833" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "wizard" ; Times: 6
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:steindachneri genus:Ophioblennius" ; Times: 1
+	Query: "specificepithet:vetulus genus:Parophrys" ; Times: 3
+	Query: "108905" ; Times: 1
+	Query: "specificepithet:plumieri genus:Haemulon" ; Times: 2
+	Query: "specificepithet:productus genus:Merluccius" ; Times: 1
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 2
+	Query: "specificepithet:pacificus genus:Microstomus" ; Times: 4
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 1
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 3
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 1
+	Query: "scientificname:Micropterus salmoides country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 1
+	Query: "specificepithet:californiensis genus:Medialuna" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "specificepithet:triseriata genus:Platyrhinoidis" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 3
+	Query: "specificepithet:erectus genus:Hippocampus" ; Times: 1
+	Query: "Coregonus alpenae" ; Times: 2
+	Query: "Labrisomus xanti" ; Times: 3
+	Query: "specificepithet:stolifera genus:Lile" ; Times: 2
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 3
+	Query: "scientificname:Micropterus dolomieu country:United States mappable:1" ; Times: 4
+	Query: "specificepithet:cornutus genus:Zanclus" ; Times: 2
+	Query: "specificepithet:maximus genus:Lachnolaimus" ; Times: 2
+	Query: "scientificname:Lepomis gibbosus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Ambloplites rupestris country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:argenteus genus:Eucinostomus" ; Times: 1
+	Query: "specificepithet:chiliensis genus:Sarda" ; Times: 2
+	Query: "specificepithet:mirabilis genus:Gillichthys" ; Times: 1
+	Query: "specificepithet:porcus genus:Scorpaena" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "mummy" ; Times: 6
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 1
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 2
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "specificepithet:ingens genus:Hippocampus" ; Times: 1
+	Query: "scientificname:Alosa sapidissima country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:ensifer genus:Sebastes" ; Times: 1
+	Query: "specificepithet:dispilus genus:Halichoeres" ; Times: 1
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:orientalis genus:Sarda" ; Times: 1
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "specificepithet:affinis genus:Atherinops" ; Times: 2
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 3
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:altivelis genus:Sebastolobus" ; Times: 1
+	Query: "specificepithet:elongatus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:constellatus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:undulatus genus:Menticirrhus" ; Times: 1
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "specificepithet:atramentatus genus:Symphurus" ; Times: 2
+	Query: "specificepithet:russula genus:Scorpaena" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "unicorn" ; Times: 6
+	Query: "specificepithet:caurinus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "specificepithet:nothus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "specificepithet:bipinnulatus genus:Elagatis" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "specificepithet:ditropis genus:Lamna" ; Times: 1
+	Query: "specificepithet:polylepis genus:Balistes" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 8
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 2
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:steindachneri genus:Haemulon" ; Times: 1
+	Query: "specificepithet:californiensis genus:Xenistius" ; Times: 1
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 2
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "specificepithet:crysos genus:Caranx" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 4
+	Query: "specificepithet:acclivis genus:Larimus" ; Times: 2
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 2
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:sexfasciatus genus:Caranx" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "specificepithet:lajang genus:Decapterus" ; Times: 1
+	Query: "Ash Meadows cyprinodon" ; Times: 2
+	Query: "specificepithet:rubrivinctus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "scientificname:Perca flavescens country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:melanosema genus:Sebastes" ; Times: 1
+	Query: "hippocampus arabian gulf" ; Times: 1
+	Query: "specificepithet:latifrons genus:Dormitator" ; Times: 1
+	Query: "specificepithet:lucioceps genus:Synodus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Hemiramphus" ; Times: 1
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:analis genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 1
+	Query: "specificepithet:melanops genus:Sebastes" ; Times: 1
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 1
+	Query: "specificepithet:salmoides genus:Micropterus" ; Times: 1
+	Query: "specificepithet:gracilis genus:Eucinostomus" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 2
+	Query: "specificepithet:rhodopus genus:Trachinotus" ; Times: 1
+	Query: "200271" ; Times: 1
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "hippocampus persian gulf" ; Times: 2
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 3
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:grandisquamis genus:Pseudupeneus" ; Times: 2
+	Query: "specificepithet:armatus genus:Centropomus" ; Times: 1
+	Query: "specificepithet:nigricans genus:Girella" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "specificepithet:troschelii genus:Abudefduf" ; Times: 1
+	Query: "Cottus echinatus" ; Times: 2
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "wetmorella triocellata" ; Times: 1
+	Query: "specificepithet:lacertinus genus:Synodus" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 924 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: France ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clark Mountain" ; Times: 2
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Ash Meadows cyprinodon" ; Times: 1
+	Query: "valenciennea sexguttata" ; Times: 1
+
+
+End of report.
