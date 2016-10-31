@@ -1,0 +1,90 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 658
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-12 ; Times: 5
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-30 ; Times: 1
+	Date: 2016-09-05 ; Times: 26
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "egg oregon 1922" ; Times: 2
+	Query: "milkfish" ; Times: 1
+	Query: "specificepithet:elater genus:Zalieutes" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Uropterygius" ; Times: 1
+	Query: "118309" ; Times: 2
+	Query: "specificepithet:margaritatus genus:Porichthys" ; Times: 1
+	Query: "137925" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "specificepithet:atricauda genus:Symphurus" ; Times: 1
+	Query: "specificepithet:macdonaldi genus:Sebastes" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 4
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:papillifer genus:Gobiesox" ; Times: 1
+	Query: "specificepithet:dubius genus:Scarus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "locality:atka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; institutioncode:UWFC" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 1
+	Query: "120126" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:sanguineus genus:Antennarius" ; Times: 1
+	Query: "specificepithet:orqueta genus:Chloroscombrus" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Paralabrax" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 811 download events in this period)
+Total number of records downloaded: 257
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thailand" ; Times: 2
+	Query: "tadpole" ; Times: 1
+
+
+End of report.
