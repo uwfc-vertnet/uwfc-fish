@@ -1,0 +1,230 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 1680
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 132
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 56
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: China ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-25 ; Times: 6
+	Date: 2017-12-24 ; Times: 16
+	Date: 2017-12-23 ; Times: 7
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 51
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-11 ; Times: 93
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-08 ; Times: 5
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Xiphophorus variatus&#34;" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Orectolobus ornatus" ; Times: 2
+	Query: "sunshine coast" ; Times: 1
+	Query: "Valenciennellus tripunctulatus mappable:1" ; Times: 1
+	Query: "djibouti" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "Mulloidichthys samoensis" ; Times: 1
+	Query: "Pollachius virens mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "Amphiprion perideraion mappable:1" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Mulloidichthys samoensis mappable:1" ; Times: 1
+	Query: "Notoscopelus caudispinosus mappable:1" ; Times: 1
+	Query: "Chromis atripectoralis" ; Times: 1
+	Query: "Bathyraja mariposa" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Chromis lepidolepis" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "Parupeneus luteus" ; Times: 1
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus indicus" ; Times: 1
+	Query: "097811" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "rhinoptera steindachneri" ; Times: 2
+	Query: "Raja clavata mappable:1" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "Upeneus sp." ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "catalognumber:088316" ; Times: 1
+	Query: "Abudefduf bimaculatus" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 4
+	Query: "&#34;Umbra krameri&#34;" ; Times: 2
+	Query: "120038" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Bathyraja minispinosa" ; Times: 1
+	Query: "sea lamprey" ; Times: 1
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "Vinciguerria poweriae mappable:1" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Limanda limanda mappable:1" ; Times: 1
+	Query: "Amphiprion ephippium" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "Chromis sp." ; Times: 5
+	Query: "Abudefduf troschelii" ; Times: 1
+	Query: "Parupeneus porphyreus" ; Times: 2
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "Bathyraja panthera" ; Times: 1
+	Query: "Parupeneus trifasciatus" ; Times: 4
+	Query: "Mulloidichthys flavolineatus" ; Times: 3
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "family:Gobiidae (Amblyotrypauchen OR Brachyamblyopus OR Caragobius OR Ctenotrypauchen OR Gymnoamblyopus OR Karsten OR Odontamblyopus OR Paratrypauchen OR Pseudotrypauchen OR Taenioides OR Trypauchen OR Trypauchenichthys OR Trypauchenopsis) hastissue:1" ; Times: 1
+	Query: "Upeneus maculatus" ; Times: 1
+	Query: "Abudefduf curacao" ; Times: 1
+	Query: "Melanocetus johnsonii mappable:1" ; Times: 1
+	Query: "Pomacentrus breviceps" ; Times: 1
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "Abudefduf coelestinus" ; Times: 2
+	Query: "djibouti 2016" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Mullus auratus" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 3
+	Query: "Euprotomicrus bispinatus" ; Times: 3
+	Query: "racoon" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "Pseudupeneus grandisquamis" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Parupeneus macronema" ; Times: 1
+	Query: "howella sherborni" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Amphiprion xanthurus" ; Times: 1
+	Query: "Amphiprion polymnus" ; Times: 1
+	Query: "Amphiprion melanopus" ; Times: 2
+	Query: "Notoscopelus resplendens mappable:1" ; Times: 1
+	Query: "catalognumber:088323" ; Times: 1
+	Query: "Canada goose hastissue:1" ; Times: 2
+	Query: "Chromis sp. E" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Parupeneus janseni" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "&#34;Trichopodus pectoralis&#34; OR &#34;Trichogaster pectoralis&#34;" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Pseudupeneus chrysonemus" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Ammodytes tobianus mappable:1" ; Times: 2
+	Query: "Parupeneus pleurostigma" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Parupeneus pleurospilos" ; Times: 1
+	Query: "gulf sturgeon" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "Halargyreus johnsonii mappable:1" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Parupeneus multifaciatus" ; Times: 1
+	Query: "Upeneoides tragula" ; Times: 1
+	Query: "Abudefduf aureus" ; Times: 1
+	Query: "Parupeneus sp. 1" ; Times: 1
+	Query: "Bathyraja matsubarai" ; Times: 1
+	Query: "Parupeneus pleurotaenia" ; Times: 2
+	Query: "119073" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Upeneus vittatus" ; Times: 2
+	Query: "Mulloidichthys vanicolensis" ; Times: 3
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "Chromis sp. 1" ; Times: 1
+	Query: "LJW 98" ; Times: 2
+	Query: "Hexanchus griseus mappable:1" ; Times: 1
+	Query: "Amphiprion bicinctus" ; Times: 2
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "Serrivomer beanii mappable:1" ; Times: 1
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "Abudefduf abdominalis" ; Times: 2
+	Query: "Abudefduf leucogaster" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "catalognumber:086867" ; Times: 1
+	Query: "Bathyraja lindbergi" ; Times: 1
+	Query: "Nexilarius concolor" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 1
+	Query: "Abudefduf concolor" ; Times: 1
+	Query: "Chromis dimidiatus" ; Times: 2
+	Query: "Heterodontus omanensis" ; Times: 2
+	Query: "Mulloidichthys auriflamma" ; Times: 3
+	Query: "paracaristius nudarcus" ; Times: 1
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Cheiloprion labiatus" ; Times: 1
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Amphiprion frenatus mappable:1" ; Times: 1
+	Query: "Amphiprion frenatus" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "Pollachius pollachius mappable:1" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 1
+	Query: "Melanolagus bericoides mappable:1" ; Times: 1
+	Query: "Parupeneus bifasciatus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 674 download events in this period)
+Total number of records downloaded: 4987
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Peru ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Gobiidae (Amblyotrypauchen OR Brachyamblyopus OR Caragobius OR Ctenotrypauchen OR Gymnoamblyopus OR Karsten OR Odontamblyopus OR Paratrypauchen OR Pseudotrypauchen OR Taenioides OR Trypauchen OR Trypauchenichthys OR Trypauchenopsis) hastissue:1" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "&#34;Umbra krameri&#34;" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "preparations:egg" ; Times: 1
+	Query: "&#34;Trichopodus pectoralis&#34; OR &#34;Trichogaster pectoralis&#34;" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "(Microdesmidae OR Gobiidae OR Ptereleotridae OR Kraemeriidae OR Schindleriidae OR Xenisthmidae OR Odontobutidae OR Rhyacichthyidae OR Milyeringidae OR Eleotridae OR Thalasseleotrididae OR Trichonotidae OR Apogonidae OR Kurtidae) hastissue:1" ; Times: 1
+	Query: "potamotrygonidae" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+
+
+End of report.
