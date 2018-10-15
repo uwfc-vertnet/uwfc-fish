@@ -1,0 +1,247 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 323
+Number of records retrieved in searches: 4082
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 134
+	Country: United States ; Times: 157
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 5
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-02 ; Times: 23
+	Date: 2018-01-25 ; Times: 6
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-17 ; Times: 17
+	Date: 2018-01-16 ; Times: 3
+	Date: 2018-01-24 ; Times: 23
+	Date: 2018-01-22 ; Times: 5
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-03 ; Times: 109
+	Date: 2018-01-23 ; Times: 99
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-26 ; Times: 13
+	Date: 2018-01-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Abudefduf imparipennis" ; Times: 1
+	Query: "Pomacentrus nigricans" ; Times: 2
+	Query: "Arctic char hastissue:1" ; Times: 1
+	Query: "Abudefduf bankieri" ; Times: 1
+	Query: "Abudefduf hemicyaneus" ; Times: 1
+	Query: "Dascyllus albisella" ; Times: 1
+	Query: "Abudefduf bimaculatus" ; Times: 1
+	Query: "Plectroglyphidodon leucozonus leucozonus" ; Times: 1
+	Query: "Hemiglyphidodon plagiometopon" ; Times: 1
+	Query: "uw-madison" ; Times: 1
+	Query: "Plectroglyphidodon leucozonus" ; Times: 1
+	Query: "Amphiprion perideraion mappable:1" ; Times: 1
+	Query: "118132" ; Times: 1
+	Query: "genus:aulostomus hastissue:1" ; Times: 1
+	Query: "Pomacentrus melanochir" ; Times: 1
+	Query: "Pomacentrus eclipticus" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "catalognumber:121671" ; Times: 1
+	Query: "Pomacentrus pavo" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "Notoscopelus caudispinosus mappable:1" ; Times: 1
+	Query: "Chromis atripectoralis" ; Times: 1
+	Query: "genus:lota hastissue:1" ; Times: 1
+	Query: "Chromis lepidolepis" ; Times: 1
+	Query: "Pomacentrus amboinensis" ; Times: 1
+	Query: "Cutthroat Trout hastissue:1" ; Times: 4
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "&#34;Salvelinus namaycush&#34; hastissue:1" ; Times: 3
+	Query: "Oncorhynchus clarki lewisi" ; Times: 1
+	Query: "(&#34;14C&#34;)" ; Times: 3
+	Query: "Abudefduf melas" ; Times: 1
+	Query: "Stegastes acapulcoensis" ; Times: 1
+	Query: "Pomacentrus tripunctatus" ; Times: 1
+	Query: "genus:Fistularia hastissue:1" ; Times: 1
+	Query: "eelpout" ; Times: 2
+	Query: "&#34;Lake chub&#34; hastissue:1" ; Times: 1
+	Query: "Chromis ovalis mappable:1" ; Times: 1
+	Query: "Abudefduf phoenixensis" ; Times: 1
+	Query: "Chromis caeruleus" ; Times: 1
+	Query: "&#34;Salvelinus confluentus&#34; hastissue:1" ; Times: 3
+	Query: "Pomacentrus coelestis" ; Times: 1
+	Query: "Dascyllus aruanus" ; Times: 1
+	Query: "Pomacentrus dorsalis" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "Dascyllus marginatus" ; Times: 2
+	Query: "&#34;couesius plumbeus&#34; hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 2
+	Query: "Couesius plumbeus hastissue:1" ; Times: 1
+	Query: "simandle" ; Times: 1
+	Query: "Abudefduf aureus" ; Times: 1
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "Pomacentrus grammorhynchus" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Abudefduf bleekeri" ; Times: 1
+	Query: "Pomacentrus nigromanus" ; Times: 1
+	Query: "Amphiprion ephippium" ; Times: 2
+	Query: "tidewater goby" ; Times: 1
+	Query: "Chromis sp." ; Times: 6
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "tidepool sculpin" ; Times: 1
+	Query: "&#34;lake chub&#34; hastissue:1" ; Times: 1
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 2
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Abudefduf curacao" ; Times: 1
+	Query: "Abudefduf leucozonus" ; Times: 1
+	Query: "Pomacentrus breviceps" ; Times: 1
+	Query: "Abudefduf troschelii" ; Times: 1
+	Query: "naches river" ; Times: 1
+	Query: "Abudefduf xanthozona" ; Times: 1
+	Query: "Abudefduf coelestinus" ; Times: 2
+	Query: "Dascyllus reticulatus" ; Times: 2
+	Query: "Pomacentrus moluccensis" ; Times: 2
+	Query: "Pomacentrus chrysopoecilus" ; Times: 1
+	Query: "Pomacentrus fasciatus" ; Times: 1
+	Query: "Pomacentrus polynema" ; Times: 1
+	Query: "acanthogobius lactipes" ; Times: 1
+	Query: "109562" ; Times: 1
+	Query: "&#34;Salvelinus malma&#34; hastissue:1" ; Times: 8
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "Chromis xanthochir" ; Times: 1
+	Query: "Amphiprion frenatus" ; Times: 1
+	Query: "&#34;Striped bass&#34; hastissue:1" ; Times: 1
+	Query: "146799" ; Times: 1
+	Query: "arctic char hastissue:1" ; Times: 2
+	Query: "Amphiprion xanthurus" ; Times: 1
+	Query: "Amphiprion polymnus" ; Times: 1
+	Query: "Pomacentrus caeruleus" ; Times: 1
+	Query: "Amphiprion melanopus" ; Times: 2
+	Query: "Abudefduf dickii" ; Times: 1
+	Query: "Chromis sp. E" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34; hastissue:1" ; Times: 3
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "138617" ; Times: 1
+	Query: "Dascyllus marginatus marginatus" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Pomacentrus notophthalmus" ; Times: 1
+	Query: "antennarius analis" ; Times: 4
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "&#34;Couesius plumbeus&#34; hastissue:1" ; Times: 5
+	Query: "&#34;Arctic grayling&#34; hastissue:1" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "Chromis ternatensis" ; Times: 1
+	Query: "scientificname:(Ptychocheilus oregonensis) country:United States mappable:1" ; Times: 1
+	Query: "Bull trout hastissue:1" ; Times: 1
+	Query: "Oncorhynchus clarkii hastissue:1" ; Times: 1
+	Query: "Chromis ovalis" ; Times: 1
+	Query: "Abudefduf leucogaster" ; Times: 1
+	Query: "&#34;arctic char&#34; hastissue:1" ; Times: 5
+	Query: "Opsanus beta" ; Times: 2
+	Query: "Arctic grayling hastissue:1" ; Times: 1
+	Query: "Dascyllus trimaculatus" ; Times: 1
+	Query: "Chromis punctipinnis" ; Times: 1
+	Query: "V-1689" ; Times: 1
+	Query: "specificepithet:diabolis genus:cyprinodon" ; Times: 1
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "Abudefduf biocellatus" ; Times: 3
+	Query: "Abudefduf lacrymatus" ; Times: 1
+	Query: "Pomacentrus albofasciatus" ; Times: 1
+	Query: "Pomacentrus simsiang" ; Times: 1
+	Query: "Pomacentrus melanopterus" ; Times: 1
+	Query: "Abudefduf melanopus" ; Times: 1
+	Query: "146800" ; Times: 2
+	Query: "&#34;Arctic Char&#34; hastissue:1" ; Times: 2
+	Query: "119073" ; Times: 4
+	Query: "Abudefduf zonatus" ; Times: 1
+	Query: "Abudefduf glaucus" ; Times: 1
+	Query: "Kuhlia sandvicensis" ; Times: 1
+	Query: "Pomacentrus bifasciatus" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "Chromis sp. 1" ; Times: 1
+	Query: "Pomacentrus inornatus" ; Times: 1
+	Query: "Amphiprion bicinctus" ; Times: 2
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "&#34;Acipenser transmontanus&#34; hastissue:1" ; Times: 2
+	Query: "Pomacentrus aureus" ; Times: 1
+	Query: "136206" ; Times: 1
+	Query: "Halargyreus johnsonii mappable:1" ; Times: 1
+	Query: "123553" ; Times: 1
+	Query: "Abudefduf abdominalis" ; Times: 1
+	Query: "(&#34;14-C&#34;)" ; Times: 1
+	Query: "&#34;Dolly varden trout&#34; hastissue:1" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 2
+	Query: "Pomacentrus lividus" ; Times: 3
+	Query: "Pomacentrus vaiuli" ; Times: 1
+	Query: "specificepithet:mohavensis" ; Times: 1
+	Query: "Striped Bass hastissue:1" ; Times: 1
+	Query: "Nexilarius concolor" ; Times: 1
+	Query: "Abudefduf uniocellatus" ; Times: 1
+	Query: "coregonus nasus" ; Times: 1
+	Query: "Abudefduf concolor" ; Times: 1
+	Query: "Pomacentrus prosopotaenia" ; Times: 1
+	Query: "Chromis dimidiatus" ; Times: 3
+	Query: "Chromis viridis" ; Times: 1
+	Query: "Pomacentrus fuscus" ; Times: 1
+	Query: "Stegastes flavilatus" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Cheiloprion labiatus" ; Times: 1
+	Query: "Pomacentrus rectifraenum" ; Times: 1
+	Query: "Amphiprion frenatus mappable:1" ; Times: 1
+	Query: "147190" ; Times: 2
+	Query: "Abudefduf bonang" ; Times: 1
+	Query: "Oncorhynchus clarki lewisi hastissue:1" ; Times: 1
+	Query: "Pomacentrus jenkinsi" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "specificepithet:confluentus hastissue:1" ; Times: 82
+	Query: "Microphis brachyurus" ; Times: 2
+	Query: "Abudefduf cyaneus" ; Times: 1
+	Query: "Chromis verator" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1398 download events in this period)
+Total number of records downloaded: 973
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Raja texana" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "eelpout" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anchoa mitchilli" ; Times: 1
+
+
+End of report.
