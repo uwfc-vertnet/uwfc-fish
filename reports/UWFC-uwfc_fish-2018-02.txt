@@ -1,0 +1,192 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 1539
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 20
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 130
+	Country: China ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-27 ; Times: 46
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-26 ; Times: 7
+	Date: 2018-02-19 ; Times: 9
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-05 ; Times: 78
+	Date: 2018-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus matoides" ; Times: 3
+	Query: "Naso thynnoides" ; Times: 2
+	Query: "Zebrasoma rostratum" ; Times: 1
+	Query: "genus:Myctophum hastissue:1" ; Times: 3
+	Query: "Zebrasoma scopas" ; Times: 1
+	Query: "scientificname:&#34;icelinus pietschi&#34;" ; Times: 1
+	Query: "&#34;Esox lucius&#34; hastissue:1" ; Times: 3
+	Query: "wizard" ; Times: 2
+	Query: "bathylaco nigricans" ; Times: 1
+	Query: "scientificname:&#34;allocareproctus jordani&#34;" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Acanthurus triostegus sandvicensis" ; Times: 1
+	Query: "scientificname:&#34;prognatholiparis ptychomandibularis&#34;" ; Times: 1
+	Query: "114041" ; Times: 1
+	Query: "scientificname:&#34;brachyopsis segaliensis&#34;" ; Times: 1
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "Naso sp." ; Times: 2
+	Query: "scientificname:&#34;careproctus kamikawai&#34;" ; Times: 1
+	Query: "scientificname:&#34;paraliparis grandis&#34;" ; Times: 1
+	Query: "(Pseudochromidae) hastissue:1" ; Times: 4
+	Query: "Acanthurus nigroris mappable:1" ; Times: 2
+	Query: "scientificname:&#34;careproctus abbreviatus&#34;" ; Times: 1
+	Query: "Ringtail and California" ; Times: 2
+	Query: "genus:Salvelinus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "(pholidichthys) hastissue:1" ; Times: 1
+	Query: "scientificname:&#34;palmoliparis beckeri&#34;" ; Times: 1
+	Query: "123022" ; Times: 1
+	Query: "clepsydra" ; Times: 2
+	Query: "specificepithet:COLLIEI genus:Hydrolagus hastissue:1" ; Times: 1
+	Query: "scientificname:&#34;allocareproctus tanix&#34;" ; Times: 1
+	Query: "huso huso" ; Times: 2
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "108688" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "scientificname:&#34;porocottus camtschaticus&#34;" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Naso brachycentron" ; Times: 1
+	Query: "Acanthurus leucopareius" ; Times: 1
+	Query: "Acanthurus atramentatus" ; Times: 1
+	Query: "scientificname:&#34;liparis marmoratus&#34;" ; Times: 1
+	Query: "scientificname:&#34;porocottus allisi&#34;" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "&#34;Micropterus dolomieu&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 8
+	Query: "Acanthurus thompsoni" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "114020" ; Times: 1
+	Query: "Acanthurus hepatus" ; Times: 2
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "family:Leiognathidae continent:Africa" ; Times: 2
+	Query: "Palsson" ; Times: 1
+	Query: "Naso tuberosus" ; Times: 3
+	Query: "scientificname:&#34;paraliparis adustus&#34;" ; Times: 1
+	Query: "Grass carp hastissue:1" ; Times: 1
+	Query: "scientificname:&#34;paraliparis penicillus&#34;" ; Times: 1
+	Query: "Hucho taimen" ; Times: 1
+	Query: "Acanthurus umbra" ; Times: 1
+	Query: "scientificname:&#34;careproctus canus&#34;" ; Times: 1
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "scientificname:&#34;bassozetus zenkevitchi&#34;" ; Times: 1
+	Query: "genus:Amblygobius basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Hepatus olivaceus" ; Times: 1
+	Query: "goodea atripinnis" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;careproctus lycopersicus&#34;" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Teuthis bahianus" ; Times: 1
+	Query: "genus:Amblygobius hastissue:1" ; Times: 2
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Callorhinchus callorhynchus" ; Times: 1
+	Query: "Acanthurus aliala" ; Times: 1
+	Query: "080294" ; Times: 1
+	Query: "scientificname:&#34;lopholiparis flerxi&#34;" ; Times: 1
+	Query: "scientificname:&#34;liparis tessellatus&#34;" ; Times: 1
+	Query: "Acanthurus unicornis" ; Times: 1
+	Query: "139594" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "Naso hexacanthus" ; Times: 1
+	Query: "scientificname:&#34;percis japonica&#34;" ; Times: 1
+	Query: "northern pike hastissue:1" ; Times: 2
+	Query: "&#34;esox lucius&#34; hastissue:1" ; Times: 1
+	Query: "&#34;northern pike&#34;" ; Times: 1
+	Query: "Rhinogobius brunneus mappable:1" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 2
+	Query: "scientificname:&#34;gyrinichthys minytremus&#34;" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 5
+	Query: "specificepithet:glauca genus:Prionace hastissue:1" ; Times: 1
+	Query: "Cutthroat Trout hastissue:1" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "Naso lopezi" ; Times: 1
+	Query: "scientificname:&#34;careproctus zachirus&#34;" ; Times: 1
+	Query: "&#34;Esox niger&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "146501" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "scientificname:&#34;liparis miostomus&#34;" ; Times: 1
+	Query: "genus:Parvilux hastissue:1" ; Times: 2
+	Query: "scientificname:&#34;careproctus comus&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "scientificname:&#34;paraliparis bullacephalus&#34;" ; Times: 1
+	Query: "scientificname:&#34;bothragonus occidentalis&#34;" ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 2
+	Query: "Acanthurus nigroris" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "&#34;Coregonus clupeaformis&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "mirorictus" ; Times: 1
+	Query: "Rhinogobius brunneus" ; Times: 1
+	Query: "scientificname:&#34;archistes biseriatus&#34;" ; Times: 1
+	Query: "great lakes sculpin" ; Times: 1
+	Query: "Acanthurus fuliginosus" ; Times: 2
+	Query: "Hepatus leucopareius" ; Times: 2
+	Query: "scientificname:&#34;cottus bendirei&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1892 download events in this period)
+Total number of records downloaded: 94
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "genus:Oncorhynchus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+
+
+End of report.
