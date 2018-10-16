@@ -1,0 +1,82 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 368
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 2
+	Country: China ; Times: 8
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "coho salmon" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "vntype:specimen genus:alepisaurus institutioncode:UWFC" ; Times: 2
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "Albulidae year &gt;= 1992 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "vntype:specimen order:scorpaeniformes institutioncode:UWFC" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "vntype:specimen specificepithet:adscensionis genus:epinephelus hastissue:1" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "June sucker" ; Times: 1
+	Query: "LJW 98" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1178 download events in this period)
+Total number of records downloaded: 542
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xiphias" ; Times: 1
+	Query: "coho salmon" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "percina" ; Times: 1
+
+
+End of report.
