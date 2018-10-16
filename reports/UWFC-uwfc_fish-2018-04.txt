@@ -1,0 +1,169 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 1118
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 71
+	Country: China ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-12 ; Times: 35
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 10
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-06 ; Times: 9
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-19 ; Times: 6
+	Date: 2018-04-23 ; Times: 4
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-27 ; Times: 4
+	Date: 2018-04-28 ; Times: 4
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "104565" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 1
+	Query: "disaster" ; Times: 2
+	Query: "109416" ; Times: 1
+	Query: "111267" ; Times: 1
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "family:Cichlidae institutioncode:UWFC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "105820" ; Times: 1
+	Query: "Bedotia hastissue:1" ; Times: 2
+	Query: "clepsydra" ; Times: 1
+	Query: "132507" ; Times: 1
+	Query: "&#34;Coregonus clupeaformis&#34; hastissue:1" ; Times: 1
+	Query: "lagocephalus suezensis" ; Times: 1
+	Query: "Phallostethidae hastissue:1" ; Times: 3
+	Query: "101256" ; Times: 1
+	Query: "genus:Symphysodon family:Cichlidae institutioncode:UWFC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nocturnal" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "&#34;Clupea pallasii&#34; hastissue:1" ; Times: 3
+	Query: "Pseudochromidae hastissue:1" ; Times: 2
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "&#34;Pacific herring&#34; hastissue:1" ; Times: 1
+	Query: "genus:Catostomus recordedby:George" ; Times: 1
+	Query: "Polycentridae hastissue:1" ; Times: 1
+	Query: "Orestias hastissue:1" ; Times: 2
+	Query: "rastrelliger brachysoma" ; Times: 1
+	Query: "Sebastes hopkinsi" ; Times: 1
+	Query: "catalognumber:106087" ; Times: 1
+	Query: "Phenacostethus hastissue:1" ; Times: 2
+	Query: "Melanotaeniidae hastissue:1" ; Times: 1
+	Query: "genus:Aequidens family:Cichlidae institutioncode:UWFC" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "133784" ; Times: 1
+	Query: "134173" ; Times: 1
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "054752" ; Times: 1
+	Query: "Guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "113300" ; Times: 1
+	Query: "Neostethus hastissue:1" ; Times: 2
+	Query: "Pacific blue marlin" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "family:Cichlidae institutioncode:UWFC" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "&#34;Oncorhynchus mykiss&#34; hastissue:1" ; Times: 1
+	Query: "&#34;Lake whitefish&#34; hastissue:1" ; Times: 1
+	Query: "sebastes helvomaculatus" ; Times: 2
+	Query: "Rhinoliparis barbulifer" ; Times: 2
+	Query: "Nandidae hastissue:1" ; Times: 2
+	Query: "Oncorhynchus clarkii mappable:1" ; Times: 14
+	Query: "guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Atherina hastissue:1" ; Times: 1
+	Query: "120009" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "Sebastes helvomaculatus" ; Times: 3
+	Query: "Ambassidae hastissue:1" ; Times: 3
+	Query: "123043" ; Times: 1
+	Query: "family:Ictaluridae institutioncode:UWFC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hypoatherina hastissue:1" ; Times: 5
+	Query: "Hiodon hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1359 download events in this period)
+Total number of records downloaded: 1766
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+
+
+End of report.
