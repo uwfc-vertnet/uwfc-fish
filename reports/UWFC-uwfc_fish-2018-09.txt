@@ -1,0 +1,146 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 3448
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 10
+	Country: Portugal ; Times: 17
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 55
+	Country: China ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 17
+	Country: Germany ; Times: 8
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 22
+	Date: 2018-09-27 ; Times: 12
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-04 ; Times: 7
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-29 ; Times: 4
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 8
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 6
+	Date: 2018-09-19 ; Times: 9
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 8
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-20 ; Times: 8
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "003-95" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 2
+	Query: "lamna nasus" ; Times: 6
+	Query: "117615" ; Times: 1
+	Query: "stateprovince:&#34;New Brunswick&#34; hastissue:1" ; Times: 2
+	Query: "117617" ; Times: 1
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "saccopharynx" ; Times: 1
+	Query: "Doryrhamphus excisus hastissue:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "elassodiscus" ; Times: 1
+	Query: "Striped Kelpfish" ; Times: 2
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Topsmelt" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "dolly varden" ; Times: 2
+	Query: "wizard" ; Times: 4
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "California Clingfish" ; Times: 1
+	Query: "Blackeye goby" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "genus:gasterosteus little river" ; Times: 1
+	Query: "Bathophilus metallicus" ; Times: 1
+	Query: "116396" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "117622" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "Carassius auratus" ; Times: 2
+	Query: "specificepithet:nakamurae genus:Lycodes hastissue:1" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "117648" ; Times: 1
+	Query: "Maulisia argipalla" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "strongylocentrotus" ; Times: 1
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "harms" ; Times: 2
+	Query: "MUZ" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 10
+	Query: "Doryrhamphus hastissue:1" ; Times: 1
+	Query: "Conocara salmoneum" ; Times: 1
+	Query: "genus:trichiurus hastissue:1" ; Times: 3
+	Query: "specificepithet:diapterus genus:Lycodes institutioncode:UWFC hastissue:1" ; Times: 2
+	Query: "Calico Sculpin" ; Times: 1
+	Query: "Rimicola muscarum" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "116390" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "torpedo californica" ; Times: 1
+	Query: "Crevice Kelpfish" ; Times: 1
+	Query: "specificepithet:diapterus genus:Lycodes hastissue:1" ; Times: 1
+	Query: "torrent sculpin" ; Times: 1
+	Query: "Sebastes serranoides" ; Times: 1
+	Query: "specificepithet:gilbertii stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nakamurae genus:Lycodes" ; Times: 1
+	Query: "Phyllorhinichthys balushkini" ; Times: 5
+	Query: "octopus" ; Times: 1
+	Query: "M-101633" ; Times: 1
+	Query: "specificepithet:nitens genus:trichiurus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 846 download events in this period)
+Total number of records downloaded: 119
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+
+
+End of report.
