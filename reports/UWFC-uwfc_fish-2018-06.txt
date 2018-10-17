@@ -1,0 +1,157 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 172
+Number of records retrieved in searches: 1633
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 157
+	Country: Australia ; Times: 1
+	Country: China ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-13 ; Times: 27
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-21 ; Times: 77
+	Date: 2018-06-20 ; Times: 28
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Naso brachycentron" ; Times: 2
+	Query: "Naso lopezi" ; Times: 2
+	Query: "137077" ; Times: 1
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "Zebrasoma rostratum" ; Times: 2
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "frog pacific northwest" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "specificepithet:cataphractus" ; Times: 2
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "genus:orestias hastissue:1" ; Times: 6
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "Mecklenburg Harbor" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "Naso lituratus" ; Times: 3
+	Query: "frog northwest" ; Times: 1
+	Query: "133939" ; Times: 3
+	Query: "Gila bicolor" ; Times: 4
+	Query: "Vollmar" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "Teuthis bahianus" ; Times: 2
+	Query: "Orestias hastissue:1" ; Times: 3
+	Query: "Cutthroat Trout" ; Times: 1
+	Query: "gilbertii" ; Times: 1
+	Query: "Acanthurus triostegus sandvicensis" ; Times: 1
+	Query: "lingcod" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "Hepatus olivaceus" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Acanthurus atramentatus" ; Times: 1
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "locality:el morro" ; Times: 2
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "zmuc year &gt; 2000" ; Times: 1
+	Query: "zmuc" ; Times: 1
+	Query: "clownfish" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Acanthurus hepatus" ; Times: 3
+	Query: "chinook salmon" ; Times: 2
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Acanthurus matoides" ; Times: 4
+	Query: "Acanthurus aliala" ; Times: 1
+	Query: "paraliparis dactylosus" ; Times: 2
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "egg alaska 1898" ; Times: 2
+	Query: "Acanthurus unicornis" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Acanthurus fuliginosus" ; Times: 2
+	Query: "Tomicodon zebra" ; Times: 2
+	Query: "Acanthurus umbra" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "Siphateles bicolor" ; Times: 3
+	Query: "Hepatus leucopareius" ; Times: 3
+	Query: "mummy" ; Times: 2
+	Query: "Naso hexacanthus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1169 download events in this period)
+Total number of records downloaded: 2044
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "smallmouth bass" ; Times: 1
+	Query: "lingcod" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "clownfish" ; Times: 1
+	Query: "Cutthroat Trout" ; Times: 2
+	Query: "stateprovince:&#34;california&#34; recordedby:hubbs year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "chinook salmon" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "rainbow trout" ; Times: 2
+	Query: "sea otter" ; Times: 2
+	Query: "wood frog continent:North America" ; Times: 1
+
+
+End of report.
