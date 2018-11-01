@@ -1,0 +1,219 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 844
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Serbia ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 165
+	Country: China ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 8
+	Date: 2018-10-05 ; Times: 12
+	Date: 2018-10-26 ; Times: 3
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-24 ; Times: 12
+	Date: 2018-10-23 ; Times: 28
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-08 ; Times: 5
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-31 ; Times: 4
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 92
+	Date: 2018-10-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Balistapus rectangulus" ; Times: 1
+	Query: "catalognumber:008163" ; Times: 1
+	Query: "Ostracion cornutus" ; Times: 1
+	Query: "Dunckerocampus dactyliophorus" ; Times: 1
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 6
+	Query: "Lactophrys tricornis" ; Times: 2
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Callionymus leucobranchialis" ; Times: 2
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "Synchiropus splendidus" ; Times: 1
+	Query: "Doryrhamphus excisus excisus" ; Times: 1
+	Query: "Lampetra tridentata mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Hippocampus punctulatus" ; Times: 3
+	Query: "Lactoria fornasini" ; Times: 1
+	Query: "Micrognathus andersonii" ; Times: 2
+	Query: "Hippocampus whitei" ; Times: 3
+	Query: "Bombonia djarong" ; Times: 1
+	Query: "Syngnathus investigatoris" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "129014" ; Times: 1
+	Query: "Ostracion tuberculatus" ; Times: 1
+	Query: "Balistes bursa" ; Times: 1
+	Query: "Canthidermis rotundatus mappable:1" ; Times: 1
+	Query: "Halicampus mataafae" ; Times: 1
+	Query: "Doryrhamphus melanopleura" ; Times: 1
+	Query: "Phyllopteryx taeniolatus" ; Times: 1
+	Query: "vntype:specimen genus:Opisthonema hastissue:1" ; Times: 1
+	Query: "Trachyrhamphus serratus" ; Times: 1
+	Query: "Hippocampus kuda" ; Times: 8
+	Query: "123456" ; Times: 2
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Canthidermis rotundatus" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Hippichthys heptagonus" ; Times: 1
+	Query: "Phoxocampus kampeni" ; Times: 1
+	Query: "Hippocampus sp. 2" ; Times: 1
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "Haplophryne mollis" ; Times: 2
+	Query: "Hippocampus novaehollandiae" ; Times: 1
+	Query: "Ostracion meleagris meleagris" ; Times: 1
+	Query: "Syngnathus schlegeli" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "Syngnathus californiensis mappable:1" ; Times: 1
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Pacific lamprey mappable:1" ; Times: 1
+	Query: "Eleutherochir mirabilis" ; Times: 1
+	Query: "Doryrhamphus melanopleura melanopleura" ; Times: 1
+	Query: "110998" ; Times: 2
+	Query: "Hippocampus trimaculatus" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "Oostethus brachyurus brachyurus" ; Times: 1
+	Query: "Peprilus triacanthus Chesapeake Bay" ; Times: 1
+	Query: "Bombonia spicifer" ; Times: 1
+	Query: "Lactoria diaphana" ; Times: 1
+	Query: "Phyllorhinichthys balushkini" ; Times: 2
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "Syngnathus griseolineatus" ; Times: 1
+	Query: "Melichthys radula" ; Times: 1
+	Query: "Chasmodes bosquianus Chesapeake Bay" ; Times: 1
+	Query: "Lactoria cornutus" ; Times: 1
+	Query: "Choeroichthys sculptus" ; Times: 1
+	Query: "Morone saxatilis Chesapeake Bay" ; Times: 1
+	Query: "Hippocampus kelloggi" ; Times: 1
+	Query: "Ostracion gibbosus" ; Times: 1
+	Query: "Phyllorhinichthys" ; Times: 2
+	Query: "locality:kodiak stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1945" ; Times: 1
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "Brevoortia tyrannus Chesapeake Bay" ; Times: 3
+	Query: "Hippichthys penicillus" ; Times: 1
+	Query: "Callionymus sagitta" ; Times: 2
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "Syngnathus californiensis californiensis mappable:1" ; Times: 1
+	Query: "Campichthys tricarinatus" ; Times: 1
+	Query: "Ichthyocampus kampeni" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Balistes capistratus" ; Times: 1
+	Query: "Syngnathus californiensis californiensis" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "Balistapus aculeatus" ; Times: 1
+	Query: "Balistes chrysopterus" ; Times: 1
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "Doryrhamphus dactyliophorus" ; Times: 1
+	Query: "Corythoichthys flavofasciatus" ; Times: 2
+	Query: "Hippocampus hudsonius" ; Times: 1
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "Syngnathus schlegeli mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "Dunckerocampus dactyliophorus dactyliophorus" ; Times: 1
+	Query: "Synchiropus ocellatus" ; Times: 1
+	Query: "genus:Scleropages hastissue:1" ; Times: 1
+	Query: "country:&#34;United States&#34; recordedby:B Arnold year &gt;= 1976 year &lt;= 2017" ; Times: 2
+	Query: "Balistes undulatus" ; Times: 1
+	Query: "Lactoria diaphana mappable:1" ; Times: 1
+	Query: "Aulostomus chinensis mappable:1" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "catalognumber:101641" ; Times: 1
+	Query: "Doryrhamphus baldwini" ; Times: 1
+	Query: "Doryichthys retzi" ; Times: 1
+	Query: "catalognumber:015058" ; Times: 1
+	Query: "Phyllopteryx taeniolatus mappable:1" ; Times: 1
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "Hippichthys spicifer" ; Times: 1
+	Query: "129020" ; Times: 2
+	Query: "mola mola larval" ; Times: 1
+	Query: "Syngnathoides biaculeatus mappable:1" ; Times: 1
+	Query: "Hippocampus guttulatus" ; Times: 2
+	Query: "Melichthys buniva" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "Oostethus brachyurus" ; Times: 3
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Ostracion rhinorhynchus" ; Times: 1
+	Query: "Hippocampus ingens" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "Microphis retzii" ; Times: 1
+	Query: "Hippocampus comes" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Syngnathus californiensis" ; Times: 1
+	Query: "Syngnathus typhle typhle" ; Times: 1
+	Query: "Callionymus distethommatus" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "catalognumber:121143" ; Times: 2
+	Query: "Phoxocampus diacanthus" ; Times: 1
+	Query: "Doryichthys retzii" ; Times: 1
+	Query: "Cynoscion regalis Chesapeake Bay" ; Times: 2
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "scleropages" ; Times: 2
+	Query: "Plecoglossus altivelis" ; Times: 1
+	Query: "Balistes vidua" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1300 download events in this period)
+Total number of records downloaded: 28
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "paulson" ; Times: 1
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Sebastes eos" ; Times: 1
+	Query: "Acanthogobius flavimanus" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "Siphamia" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
