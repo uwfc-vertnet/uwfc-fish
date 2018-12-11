@@ -1,0 +1,335 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 321
+Number of records retrieved in searches: 12735
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 27
+	Country: Unknown ; Times: 161
+	Country: United States ; Times: 126
+	Country: Peru ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 3
+	Date: 2018-11-23 ; Times: 27
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-15 ; Times: 4
+	Date: 2018-11-25 ; Times: 68
+	Date: 2018-11-27 ; Times: 13
+	Date: 2018-11-26 ; Times: 45
+	Date: 2018-11-21 ; Times: 11
+	Date: 2018-11-20 ; Times: 2
+	Date: 2018-11-30 ; Times: 83
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-28 ; Times: 49
+
+List of queries that retrieved data from the resource: 
+	Query: "salvelinus fontinalis hastissue:1" ; Times: 2
+	Query: "Eleginus gracilis mappable:1" ; Times: 1
+	Query: "specificepithet:semifasciata genus:triakis mappable:1" ; Times: 1
+	Query: "Conocara salmonea mappable:1" ; Times: 1
+	Query: "Careproctus furcellus mappable:1" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "Chirolophis decoratus mappable:1" ; Times: 1
+	Query: "Aristostomias scintillans mappable:1" ; Times: 1
+	Query: "Anoplagonus inermis mappable:1" ; Times: 1
+	Query: "Embiotoca lateralis mappable:1" ; Times: 1
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 1
+	Query: "Bryozoichthys lysimus mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Amphistichus rhodoterus mappable:1" ; Times: 1
+	Query: "Amblyraja badia mappable:1" ; Times: 1
+	Query: "Salvelinus fontinalis hastissue:1" ; Times: 2
+	Query: "recordedby:Salmon" ; Times: 1
+	Query: "Eumecichthys fiski mappable:1" ; Times: 1
+	Query: "140309" ; Times: 2
+	Query: "Cryptopsaras couesii mappable:1" ; Times: 1
+	Query: "Acipenser medirostris mappable:1" ; Times: 1
+	Query: "Careproctus ostentum mappable:1" ; Times: 1
+	Query: "Enophrys lucasi mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus hastissue:1" ; Times: 1
+	Query: "Coryphaenoides filifer mappable:1" ; Times: 1
+	Query: "Anarhichas orientalis mappable:1" ; Times: 1
+	Query: "Anisarchus medius mappable:1" ; Times: 1
+	Query: "Chaenophryne longiceps mappable:1" ; Times: 1
+	Query: "Enophrys bison mappable:1" ; Times: 1
+	Query: "catalognumber:135287" ; Times: 1
+	Query: "Dicrolene filamentosa mappable:1" ; Times: 1
+	Query: "Bolinia euryptera mappable:1" ; Times: 1
+	Query: "Eumicrotremus andriashevi mappable:1" ; Times: 1
+	Query: "Allocareproctus kallaion mappable:1" ; Times: 1
+	Query: "Evermannella indica mappable:1" ; Times: 1
+	Query: "Eumicrotremus derjugini mappable:1" ; Times: 1
+	Query: "Eptatretus stoutii mappable:1" ; Times: 1
+	Query: "Aulorhynchus flavidus mappable:1" ; Times: 1
+	Query: "Chilara taylori mappable:1" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 3
+	Query: "Brama japonica mappable:1" ; Times: 1
+	Query: "Eurymen gyrinus mappable:1" ; Times: 1
+	Query: "specificepithet:glauca genus:prionace mappable:1" ; Times: 1
+	Query: "Caulophryne jordani mappable:1" ; Times: 1
+	Query: "locality:Kolombangara hastissue:1" ; Times: 2
+	Query: "Bathyagonus pentacanthus mappable:1" ; Times: 1
+	Query: "Chirolophis nugator mappable:1" ; Times: 1
+	Query: "Eumicrotremus barbatus mappable:1" ; Times: 1
+	Query: "Atheresthes evermanni mappable:1" ; Times: 1
+	Query: "Albatrossia pectoralis mappable:1" ; Times: 1
+	Query: "specificepithet:vulpinus genus:alopias mappable:1" ; Times: 1
+	Query: "Adelosebastes latens mappable:1" ; Times: 1
+	Query: "Careproctus faunus mappable:1" ; Times: 1
+	Query: "Chesnonia verrucosa mappable:1" ; Times: 1
+	Query: "Citharichthys stigmaeus mappable:1" ; Times: 1
+	Query: "Antimora microlepis mappable:1" ; Times: 1
+	Query: "Aldrovandia affinis mappable:1" ; Times: 1
+	Query: "Atheresthes stomias mappable:1" ; Times: 1
+	Query: "specificepithet:polylepis genus:balistes mappable:1" ; Times: 2
+	Query: "Chaunax stigmaeus mappable:1" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 1
+	Query: "Bathyraja smirnovi mappable:1" ; Times: 1
+	Query: "Bathymaster caeruleofasciatus mappable:1" ; Times: 1
+	Query: "Bathymaster signatus mappable:1" ; Times: 1
+	Query: "Coryphaena hippurus mappable:1" ; Times: 1
+	Query: "Bajacalifornia erimoensis mappable:1" ; Times: 1
+	Query: "Bathyraja parmifera mappable:1" ; Times: 1
+	Query: "hystrix (ethanol)" ; Times: 2
+	Query: "Aptocyclus ventricosus mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:albula mappable:1" ; Times: 1
+	Query: "specificepithet:mordax genus:engraulis mappable:1" ; Times: 1
+	Query: "Cryptacanthodes giganteus mappable:1" ; Times: 1
+	Query: "Anotopterus nikparini mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Allocareproctus ungak mappable:1" ; Times: 1
+	Query: "Aphanopus carbo mappable:1" ; Times: 1
+	Query: "Cyclothone atraria mappable:1" ; Times: 1
+	Query: "specificepithet:tenuis genus:benthodesmus mappable:1" ; Times: 1
+	Query: "152651" ; Times: 1
+	Query: "specificepithet:californica genus:squatina mappable:1" ; Times: 1
+	Query: "Allosmerus elongatus mappable:1" ; Times: 1
+	Query: "specificepithet:bipinnulatus genus:elagatis mappable:1" ; Times: 1
+	Query: "Facciolella gilbertii mappable:1" ; Times: 1
+	Query: "specificepithet:notatus genus:porichthys mappable:1" ; Times: 1
+	Query: "Chitonotus pugetensis mappable:1" ; Times: 1
+	Query: "152658" ; Times: 1
+	Query: "Cololabis saira mappable:1" ; Times: 1
+	Query: "Eucryphycus californicus mappable:1" ; Times: 1
+	Query: "specificepithet:stomata genus:hippoglossina mappable:1" ; Times: 1
+	Query: "Careproctus lycopersicus mappable:1" ; Times: 1
+	Query: "Caristius macropus mappable:1" ; Times: 1
+	Query: "Benthalbella dentata mappable:1" ; Times: 1
+	Query: "specificepithet:chromis genus:chromis" ; Times: 1
+	Query: "specificepithet:sagax genus:sardinops mappable:1" ; Times: 6
+	Query: "Careproctus phasma mappable:1" ; Times: 1
+	Query: "specificepithet:hystrix genus:diodon mappable:1" ; Times: 3
+	Query: "117648" ; Times: 1
+	Query: "Bertella idiomorpha mappable:1" ; Times: 1
+	Query: "Careproctus comus mappable:1" ; Times: 1
+	Query: "Atherinops affinis mappable:1" ; Times: 1
+	Query: "specificepithet:hippurus genus:coryphaena mappable:1" ; Times: 1
+	Query: "specificepithet:decurrens genus:pleuronichthys mappable:1" ; Times: 1
+	Query: "Artedius lateralis mappable:1" ; Times: 1
+	Query: "specificepithet:atrovirens genus:sebastes mappable:1" ; Times: 1
+	Query: "Antimora rostrata mappable:1" ; Times: 1
+	Query: "117325" ; Times: 1
+	Query: "137507" ; Times: 1
+	Query: "Agonopsis vulsa mappable:1" ; Times: 1
+	Query: "Astroscopus y mappable:1" ; Times: 1
+	Query: "Careproctus cypselurus mappable:1" ; Times: 1
+	Query: "Citharichthys sordidus mappable:1" ; Times: 1
+	Query: "Esox lucius mappable:1" ; Times: 1
+	Query: "Apristurus kampae mappable:1" ; Times: 1
+	Query: "Apristurus brunneus mappable:1" ; Times: 1
+	Query: "specificepithet:entomelas genus:sebastes mappable:1" ; Times: 1
+	Query: "Bathymaster leurolepis mappable:1" ; Times: 1
+	Query: "Borostomias panamensis mappable:1" ; Times: 1
+	Query: "Alosa sapidissima mappable:1" ; Times: 1
+	Query: "Eumicrotremus gyrinops mappable:1" ; Times: 1
+	Query: "Bathyagonus alascanus mappable:1" ; Times: 1
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 1
+	Query: "Bathyraja panthera mappable:1" ; Times: 1
+	Query: "Anarrhichthys ocellatus mappable:1" ; Times: 1
+	Query: "Bathyraja maculata mappable:1" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:citharichthys mappable:1" ; Times: 1
+	Query: "Bothrocara molle mappable:1" ; Times: 1
+	Query: "Amphistichus argenteus mappable:1" ; Times: 1
+	Query: "&#34;Trichopodus trichopterus&#34; OR &#34;Trichogaster trichopterus&#34;" ; Times: 2
+	Query: "Artediellus pacificus mappable:1" ; Times: 1
+	Query: "USNM 3557" ; Times: 1
+	Query: "Centroscyllium nigrum mappable:1" ; Times: 1
+	Query: "Eumicrotremus phrynoides mappable:1" ; Times: 1
+	Query: "Bathyraja aleutica mappable:1" ; Times: 1
+	Query: "Brosme brosme mappable:1" ; Times: 1
+	Query: "Ammodytes tobianus mappable:1" ; Times: 1
+	Query: "Brosmophycis marginata mappable:1" ; Times: 1
+	Query: "Bathyraja mariposa mappable:1" ; Times: 1
+	Query: "Ammodytes hexapterus mappable:1" ; Times: 1
+	Query: "Bathyraja abyssicola mappable:1" ; Times: 1
+	Query: "Allocareproctus tanix mappable:1" ; Times: 1
+	Query: "specificepithet:thazard genus:auxis mappable:1" ; Times: 2
+	Query: "Acantholumpenus mackayi mappable:1" ; Times: 1
+	Query: "Amblyraja jenseni mappable:1" ; Times: 1
+	Query: "specificepithet:salar genus:salmo mappable:1" ; Times: 11
+	Query: "specificepithet:henlei genus:mustelus mappable:1" ; Times: 1
+	Query: "Bathyraja violacea mappable:1" ; Times: 1
+	Query: "Chaenophryne draco mappable:1" ; Times: 1
+	Query: "Dasycottus setiger mappable:1" ; Times: 1
+	Query: "Bathyagonus nigripinnis mappable:1" ; Times: 1
+	Query: "specificepithet:ditropis genus:Lamna" ; Times: 3
+	Query: "Benthodesmus pacificus mappable:1" ; Times: 1
+	Query: "Eopsetta jordani mappable:1" ; Times: 1
+	Query: "specificepithet:liolepis genus:xystreurys mappable:1" ; Times: 1
+	Query: "Eumesogrammus praecisus mappable:1" ; Times: 1
+	Query: "Cryptacanthodes aleutensis mappable:1" ; Times: 1
+	Query: "Anoplopoma fimbria mappable:1" ; Times: 1
+	Query: "Bathyraja lindbergi mappable:1" ; Times: 1
+	Query: "Elassodiscus caudatus mappable:1" ; Times: 1
+	Query: "Ammodytes dubius mappable:1" ; Times: 1
+	Query: "139902" ; Times: 1
+	Query: "Careproctus scottae mappable:1" ; Times: 1
+	Query: "Cataetyx rubrirostris mappable:1" ; Times: 1
+	Query: "specificepithet:rostrata genus:antimora mappable:1" ; Times: 1
+	Query: "Argentina sialis mappable:1" ; Times: 1
+	Query: "Auxis rochei mappable:1" ; Times: 1
+	Query: "Bothrocara brunneum mappable:1" ; Times: 1
+	Query: "136077" ; Times: 1
+	Query: "MVC" ; Times: 1
+	Query: "Bathylychnops exilis mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:caulolatilus mappable:1" ; Times: 1
+	Query: "Caulolatilus princeps mappable:1" ; Times: 1
+	Query: "Careproctus simus mappable:1" ; Times: 1
+	Query: "Bryozoichthys marjorius mappable:1" ; Times: 1
+	Query: "specificepithet:lucius genus:esox mappable:1" ; Times: 4
+	Query: "specificepithet:nebulifer genus:paralabrax mappable:1" ; Times: 1
+	Query: "specificepithet:symmetricus genus:trachurus mappable:1" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 1
+	Query: "Chirolophis snyderi mappable:1" ; Times: 1
+	Query: "Blepsias bilobus mappable:1" ; Times: 1
+	Query: "specificepithet:micropterus genus:oxyporhamphus mappable:1" ; Times: 1
+	Query: "Careproctus ovigerus mappable:1" ; Times: 1
+	Query: "Cymatogaster aggregata mappable:1" ; Times: 1
+	Query: "specificepithet:surinamensis genus:lobotes mappable:1" ; Times: 1
+	Query: "specificepithet:holacanthus genus:diodon mappable:1" ; Times: 1
+	Query: "Brama brama mappable:1" ; Times: 1
+	Query: "Dicrolene introniger mappable:1" ; Times: 1
+	Query: "Bathyraja taranetzi mappable:1" ; Times: 1
+	Query: "Citharichthys xanthostigma mappable:1" ; Times: 1
+	Query: "Hexanchus griseus mappable:1" ; Times: 13
+	Query: "specificepithet:mirabilis genus:gillichthys mappable:1" ; Times: 1
+	Query: "Eumicrotremus orbis mappable:1" ; Times: 1
+	Query: "specificepithet:productus genus:merluccius mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 1
+	Query: "specificepithet:japonicus genus:scomber mappable:1" ; Times: 2
+	Query: "Bathophilus flemingi mappable:1" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:lagocephalus mappable:1" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 2
+	Query: "154035" ; Times: 1
+	Query: "Acantholiparis opercularis mappable:1" ; Times: 1
+	Query: "Bathyraja trachura mappable:1" ; Times: 1
+	Query: "Coryphaenoides acrolepis mappable:1" ; Times: 1
+	Query: "Alepocephalus tenebrosus mappable:1" ; Times: 1
+	Query: "Archistes biseriatus mappable:1" ; Times: 1
+	Query: "Dentex dentex mappable:1" ; Times: 1
+	Query: "Clupea pallasii mappable:1" ; Times: 1
+	Query: "Carcharhinus obscurus mappable:1" ; Times: 1
+	Query: "Careproctus ectenes mappable:1" ; Times: 1
+	Query: "specificepithet:alalunga genus:thunnus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:gerres mappable:1" ; Times: 1
+	Query: "Argyropelecus lychnus mappable:1" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:isurus mappable:1" ; Times: 1
+	Query: "country:&#34;angola&#34; hastissue:1" ; Times: 1
+	Query: "Enophrys diceraus mappable:1" ; Times: 1
+	Query: "Dolichopteryx longipes mappable:1" ; Times: 1
+	Query: "specificepithet:coenosus genus:pleuronichthys mappable:1" ; Times: 1
+	Query: "specificepithet:mola genus:mola mappable:1" ; Times: 1
+	Query: "specificepithet:fimbria genus:anoplopoma mappable:1" ; Times: 1
+	Query: "Careproctus melanurus mappable:1" ; Times: 1
+	Query: "Enophrys taurina mappable:1" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 1
+	Query: "specificepithet:elater genus:zalieutes mappable:1" ; Times: 1
+	Query: "Aspidophoroides olrikii mappable:1" ; Times: 1
+	Query: "Arctozenus risso mappable:1" ; Times: 1
+	Query: "Careproctus rastrinus mappable:1" ; Times: 1
+	Query: "specificepithet:obscurus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "Allocyttus folletti mappable:1" ; Times: 1
+	Query: "Eptatretus deani mappable:1" ; Times: 1
+	Query: "specificepithet:argentea genus:sphyraena mappable:1" ; Times: 1
+	Query: "&#34;Pseudorasbora parva&#34;" ; Times: 4
+	Query: "Chiasmodon niger mappable:1" ; Times: 1
+	Query: "Careproctus zachirus mappable:1" ; Times: 1
+	Query: "specificepithet:auratus genus:carassius mappable:1" ; Times: 1
+	Query: "Elassodiscus tremebundus mappable:1" ; Times: 1
+	Query: "Alepisaurus ferox mappable:1" ; Times: 1
+	Query: "Bathylagus pacificus mappable:1" ; Times: 1
+	Query: "Careproctus colletti mappable:1" ; Times: 1
+	Query: "specificepithet:cephalus genus:mugil mappable:1" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "specificepithet:rochei genus:auxis mappable:1" ; Times: 2
+	Query: "Gadus macrocephalus mappable:1" ; Times: 1
+	Query: "091426" ; Times: 1
+	Query: "United States 117648" ; Times: 1
+	Query: "scleropages" ; Times: 1
+	Query: "Ceratias holboelli mappable:1" ; Times: 1
+	Query: "Aphanopus arigato mappable:1" ; Times: 1
+	Query: "specificepithet:rhina genus:raja mappable:1" ; Times: 1
+	Query: "Avocettina infans mappable:1" ; Times: 1
+	Query: "Embassichthys bathybius mappable:1" ; Times: 1
+	Query: "specificepithet:pelamis genus:euthynnus mappable:1" ; Times: 1
+	Query: "Careproctus abbreviatus mappable:1" ; Times: 1
+	Query: "specificepithet:monoceros genus:aluterus mappable:1" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Argyropelecus affinis mappable:1" ; Times: 1
+	Query: "Cryptacanthodes maculatus mappable:1" ; Times: 1
+	Query: "specificepithet:audax genus:tetrapturus mappable:1" ; Times: 1
+	Query: "Allocareproctus jordani mappable:1" ; Times: 1
+	Query: "Bothrocara pusillum mappable:1" ; Times: 1
+	Query: "Careproctus canus mappable:1" ; Times: 1
+	Query: "Coryphaenoides cinereus mappable:1" ; Times: 1
+	Query: "specificepithet:carpio genus:cyprinus mappable:1" ; Times: 2
+	Query: "Clinocottus acuticeps mappable:1" ; Times: 1
+	Query: "Bathyraja interrupta mappable:1" ; Times: 1
+	Query: "specificepithet:albacares genus:thunnus mappable:1" ; Times: 2
+	Query: "Bajacalifornia megalops mappable:1" ; Times: 1
+	Query: "Coelorinchus scaphopsis mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1719 download events in this period)
+Total number of records downloaded: 64
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;sicily&#34;" ; Times: 1
+	Query: "brook trout" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "&#34;Pseudorasbora parva&#34;" ; Times: 1
+	Query: "opsanus beta" ; Times: 1
+
+
+End of report.
