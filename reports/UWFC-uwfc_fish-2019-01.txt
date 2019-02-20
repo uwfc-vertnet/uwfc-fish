@@ -1,0 +1,116 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 411
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 17
+	Country: United States ; Times: 31
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-17 ; Times: 7
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-23 ; Times: 4
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-29 ; Times: 11
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-31 ; Times: 8
+	Date: 2019-01-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:136503" ; Times: 1
+	Query: "ogcocephalus hastissue:1" ; Times: 4
+	Query: "Paraplagusia japonica" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "&#34;Miller&#34; AND &#34;Clemente Island&#34;" ; Times: 1
+	Query: "Hypsurus caryi" ; Times: 1
+	Query: "089130" ; Times: 2
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "pink salmon" ; Times: 1
+	Query: "uw 150882" ; Times: 1
+	Query: "genus:Sarcocheilichthys" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "109133" ; Times: 1
+	Query: "uw madison" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "116293" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "Salamander stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "speckled bear" ; Times: 1
+	Query: "gopher rockfish" ; Times: 1
+	Query: "103325" ; Times: 1
+	Query: "bocaccio" ; Times: 1
+	Query: "137270" ; Times: 1
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "137586" ; Times: 1
+	Query: "Myoxocephalus scorpioides mappable:1" ; Times: 2
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "056003" ; Times: 1
+	Query: "hucho hucho" ; Times: 1
+	Query: "125668" ; Times: 1
+	Query: "014525" ; Times: 1
+	Query: "108252" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Cottus echinatus" ; Times: 3
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Cynoglossus sibogae" ; Times: 4
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "catalognumber:130813" ; Times: 1
+	Query: "uw 154599" ; Times: 1
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "preparations:skeletons basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:106128" ; Times: 1
+	Query: "Chum salmon" ; Times: 1
+	Query: "135527" ; Times: 1
+	Query: "108399" ; Times: 1
+	Query: "uw 040199" ; Times: 1
+	Query: "uw 1546" ; Times: 1
+	Query: "133045" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 962 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "carcharodon carcharias" ; Times: 1
+
+
+End of report.
