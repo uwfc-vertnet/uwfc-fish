@@ -1,0 +1,116 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 398
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 23
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-14 ; Times: 10
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 6
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 6
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-01 ; Times: 6
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Cirrhinus reba" ; Times: 1
+	Query: "Auxis rochei mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:synchiropus hastissue:1" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "elassodiscus" ; Times: 1
+	Query: "Melanostomias melanops" ; Times: 1
+	Query: "Lycodes rossi mappable:1" ; Times: 1
+	Query: "Coregonus artedi basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Lycodes seminudus mappable:1" ; Times: 1
+	Query: "locality:ujelang" ; Times: 1
+	Query: "Careproctus spp mappable:1" ; Times: 1
+	Query: "sandfish" ; Times: 1
+	Query: "tetrabrachium ocellatum" ; Times: 1
+	Query: "vntype:specimen genus:aulostomus hastissue:1" ; Times: 1
+	Query: "Auxis thazard mappable:1" ; Times: 1
+	Query: "Myoxocephalus scorpioides mappable:1" ; Times: 1
+	Query: "Lumpenus fabricii mappable:1" ; Times: 1
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "specificepithet:pachygaster genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "131554" ; Times: 1
+	Query: "Melanocetus murrayi" ; Times: 4
+	Query: "107820" ; Times: 1
+	Query: "stateprovince:&#34;hawaii&#34; recordedby:needham" ; Times: 5
+	Query: "Arctogadus glacialis mappable:1" ; Times: 4
+	Query: "catalognumber:103328" ; Times: 1
+	Query: "speckled dace" ; Times: 1
+	Query: "specificepithet:albidus genus:Tetrapturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "grass carp" ; Times: 1
+	Query: "Coregonus artedi hastissue:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "uw 150106" ; Times: 1
+	Query: "LJW 98" ; Times: 2
+	Query: "Icelus spatula mappable:1" ; Times: 1
+	Query: "Triglops nybelini mappable:1" ; Times: 1
+	Query: "eagle stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "catalognumber:116885" ; Times: 2
+	Query: "Albula vulpes mappable:1" ; Times: 4
+	Query: "Centrobranchus andreae" ; Times: 1
+	Query: "Eumicrotremus spinosus mappable:1" ; Times: 1
+	Query: "catalognumber:116891" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "103886" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1227 download events in this period)
+Total number of records downloaded: 153
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:albidus genus:Tetrapturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;hawaii&#34; recordedby:needham" ; Times: 1
+	Query: "mottled sculpin" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+
+
+End of report.
