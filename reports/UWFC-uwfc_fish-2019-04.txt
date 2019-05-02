@@ -1,0 +1,150 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 920
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: United States ; Times: 39
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 12
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 13
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-11 ; Times: 15
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-02 ; Times: 12
+	Date: 2019-04-03 ; Times: 4
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-20 ; Times: 5
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 16
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-24 ; Times: 6
+	Date: 2019-04-25 ; Times: 8
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "109475" ; Times: 1
+	Query: "135099" ; Times: 1
+	Query: "catalognumber:170470" ; Times: 2
+	Query: "Neoclinus uninotatus" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "155796" ; Times: 1
+	Query: "frogfish" ; Times: 2
+	Query: "Coralliozetus micropes mappable:1" ; Times: 2
+	Query: "137246" ; Times: 1
+	Query: "Benthosema panamense" ; Times: 1
+	Query: "137536" ; Times: 1
+	Query: "ZMUC" ; Times: 1
+	Query: "137989" ; Times: 2
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "psychrolutes phrictus" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "catalognumber:160879" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "Coralliozetus micropes" ; Times: 2
+	Query: "115767" ; Times: 1
+	Query: "173062" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "wizard" ; Times: 2
+	Query: "161314" ; Times: 1
+	Query: "&#34;lower klamath&#34; &#34;siskiyou&#34;" ; Times: 1
+	Query: "catalognumber:002493" ; Times: 1
+	Query: "Stathmonotus sinuscalifornici" ; Times: 1
+	Query: "137236" ; Times: 1
+	Query: "flathead catfish hastissue:1" ; Times: 1
+	Query: "catalognumber:010401" ; Times: 2
+	Query: "174335" ; Times: 1
+	Query: "174336" ; Times: 1
+	Query: "cutthroat trout" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "catalognumber:008597" ; Times: 2
+	Query: "Brown trout Great Lakes" ; Times: 2
+	Query: "011047" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 1
+	Query: "119949" ; Times: 1
+	Query: "107950" ; Times: 1
+	Query: "locality:herron" ; Times: 1
+	Query: "specificepithet:altivelis genus:Sebastolobus year &lt;= 1889" ; Times: 1
+	Query: "135690" ; Times: 1
+	Query: "115761" ; Times: 1
+	Query: "Neoclinus blanchardi" ; Times: 1
+	Query: "southern redbelly dace" ; Times: 1
+	Query: "catalognumber:005759" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "Neoclinus blanchardi mappable:1" ; Times: 1
+	Query: "137546" ; Times: 2
+	Query: "flathead catfish" ; Times: 1
+	Query: "ceratias" ; Times: 4
+	Query: "139554" ; Times: 1
+	Query: "025583" ; Times: 1
+	Query: "&#34;lower klamath&#34;" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "174337" ; Times: 1
+	Query: "182650" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 2
+	Query: "115753" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "catalognumber:010410" ; Times: 2
+	Query: "175723" ; Times: 1
+	Query: "115755" ; Times: 1
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "156150" ; Times: 1
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "119953" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "Oncorhynchus masou" ; Times: 1
+	Query: "135136" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "103378" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1263 download events in this period)
+Total number of records downloaded: 128
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+
+
+End of report.
