@@ -1,0 +1,142 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 631
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Finland ; Times: 1
+	Country: France ; Times: 41
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-27 ; Times: 5
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 9
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 6
+	Date: 2019-03-07 ; Times: 14
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-01 ; Times: 10
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 8
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-12 ; Times: 9
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-11 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nigricans genus:Makaira stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "recordedby:Surface" ; Times: 1
+	Query: "Potamotrygon" ; Times: 1
+	Query: "Bullhead Minnow" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;California&#34; recordedby:McGregor" ; Times: 1
+	Query: "redside shiner" ; Times: 1
+	Query: "family:Polypteridae hastissue:1" ; Times: 1
+	Query: "Rainbow snake" ; Times: 1
+	Query: "121677" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 2
+	Query: "genus:Polypterus hastissue:1" ; Times: 1
+	Query: "Carcharodon carcharias hasmass:1" ; Times: 2
+	Query: "121679" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 8
+	Query: "genus:Erpetoichthys hastissue:1" ; Times: 2
+	Query: "081111" ; Times: 1
+	Query: "urchin" ; Times: 1
+	Query: "genus:catostomus institutioncode:UWFC" ; Times: 1
+	Query: "STARKS &amp; THOMPSON" ; Times: 1
+	Query: "125594" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Diodon hystrix mappable:1" ; Times: 8
+	Query: "Channa hastissue:1" ; Times: 1
+	Query: "porcher island" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "125668" ; Times: 2
+	Query: "&#34;STARKS &amp; THOMPSON&#34;" ; Times: 1
+	Query: "Lamna ditropis" ; Times: 6
+	Query: "113188" ; Times: 1
+	Query: "order:Lepidosireniformes hastissue:1" ; Times: 3
+	Query: "Anarhichas minor" ; Times: 1
+	Query: "137524" ; Times: 1
+	Query: "108252" ; Times: 3
+	Query: "unicorn" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "CM 5906" ; Times: 2
+	Query: "CM 6855" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "002925" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 2
+	Query: "Antennarius striatus mappable:1" ; Times: 6
+	Query: "147828" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "catalognumber:120291" ; Times: 1
+	Query: "Barbourisia" ; Times: 1
+	Query: "blacktail shiner" ; Times: 1
+	Query: "gbifdatasetid:831234b2-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "eagle stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Malacocephalus laevis mappable:1" ; Times: 5
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "catalognumber:137993" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1281 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nigricans genus:Makaira stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;morone americana&#34;" ; Times: 1
+	Query: "Los Banos Philippines" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Acanthemblemaria spinosa" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
