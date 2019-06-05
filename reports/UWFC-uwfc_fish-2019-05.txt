@@ -1,0 +1,236 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 448
+Number of records retrieved in searches: 2913
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 86
+	Country: Italy ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Greece ; Times: 9
+	Country: Micronesia ; Times: 2
+	Country: France ; Times: 258
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 68
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-06 ; Times: 70
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-04 ; Times: 2
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-25 ; Times: 56
+	Date: 2019-05-24 ; Times: 27
+	Date: 2019-05-27 ; Times: 19
+	Date: 2019-05-26 ; Times: 70
+	Date: 2019-05-21 ; Times: 20
+	Date: 2019-05-20 ; Times: 10
+	Date: 2019-05-23 ; Times: 42
+	Date: 2019-05-22 ; Times: 27
+	Date: 2019-05-29 ; Times: 27
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 3
+	Date: 2019-05-16 ; Times: 47
+	Date: 2019-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 1
+	Query: "Rouleina" ; Times: 1
+	Query: "Orectolobus ornatus" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "168930" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "155228" ; Times: 1
+	Query: "151419" ; Times: 1
+	Query: "Bathyraja mariposa" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "Amblyraja jenseni" ; Times: 1
+	Query: "Rhinoptera steindachneri" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "Eucyclogobius newberryi" ; Times: 2
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 20
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Kokanee" ; Times: 1
+	Query: "Diplospinus multistriatus mappable:1" ; Times: 1
+	Query: "Bathyraja parmifera" ; Times: 1
+	Query: "127198" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 6
+	Query: "Myripristis jacobus mappable:1" ; Times: 11
+	Query: "Mugil trichodon mappable:1" ; Times: 1
+	Query: "Bathyraja violacea" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "167532" ; Times: 1
+	Query: "Amblyraja badia" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 1
+	Query: "Seriola rivoliana mappable:1" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Bathyraja minispinosa" ; Times: 1
+	Query: "Rainbow snake" ; Times: 5
+	Query: "Raja rhina" ; Times: 1
+	Query: "catalognumber:182006" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Malacoctenus macropus mappable:1" ; Times: 10
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "Chiloscyllium plagiosum" ; Times: 1
+	Query: "Bull Trout" ; Times: 24
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 30
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "Bathyraja panthera" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Lamna ditropis" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 16
+	Query: "Nebrius ferrugineus" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 1
+	Query: "Euprotomicrus bispinatus" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Bathyraja taranetzi" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "sebastes reedi" ; Times: 1
+	Query: "Salmo trutta" ; Times: 5
+	Query: "Risor ruber mappable:1" ; Times: 15
+	Query: "Centrobranchus choerocephalus" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 1
+	Query: "Tidewater goby" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Tetronarce californica" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Squalus suckleyi" ; Times: 1
+	Query: "genus:Mobula" ; Times: 1
+	Query: "Taeniura lymma" ; Times: 1
+	Query: "Scyliorhinus torazame" ; Times: 1
+	Query: "172610" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 17
+	Query: "Halaelurus buergeri" ; Times: 1
+	Query: "V 1653" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "locality:Rongerik country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Raja clavata" ; Times: 1
+	Query: "Bathyraja matsubarai" ; Times: 1
+	Query: "dahlia" ; Times: 1
+	Query: "Bathyraja smirnovi" ; Times: 1
+	Query: "Acanthemblemaria spinosa mappable:1" ; Times: 20
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "181338" ; Times: 1
+	Query: "Malacoctenus erdmani mappable:1" ; Times: 10
+	Query: "Stegastes adustus mappable:1" ; Times: 3
+	Query: "Somniosus pacificus" ; Times: 1
+	Query: "045020" ; Times: 1
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Apogon lachneri mappable:1" ; Times: 21
+	Query: "catalognumber:040697 institutioncode:UWFC" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "Centroscyllium nigrum" ; Times: 1
+	Query: "Apristurus kampae" ; Times: 1
+	Query: "Malacoctenus gilli mappable:1" ; Times: 10
+	Query: "Chiloscyllium punctatum" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 1
+	Query: "175723" ; Times: 3
+	Query: "catalognumber:147730" ; Times: 1
+	Query: "Bathyraja lindbergi" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 17
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "176358" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 1
+	Query: "Priolepis hipoliti mappable:1" ; Times: 15
+	Query: "locality:Rongelap country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Gila chub" ; Times: 2
+	Query: "Heterodontus omanensis" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 3
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 2
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 17
+	Query: "Protopterus" ; Times: 2
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "Pagrus major" ; Times: 9
+	Query: "ctenogobius hastissue:1" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 10
+	Query: "Albula vulpes mappable:1" ; Times: 1
+	Query: "Opistognathus macrognathus mappable:1" ; Times: 3
+	Query: "Scarus iseri mappable:1" ; Times: 4
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 940 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Greece ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scarus ghobban" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Pagrus major" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+
+
+End of report.
