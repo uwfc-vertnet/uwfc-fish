@@ -1,0 +1,176 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 4562
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 114
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: China ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 13
+	Date: 2019-07-08 ; Times: 60
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-22 ; Times: 3
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-04 ; Times: 4
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-06 ; Times: 11
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-10 ; Times: 9
+	Date: 2019-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "Hypomesus nipponensis" ; Times: 1
+	Query: "genus:Antennarius specificepithet:commerson" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "107251" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "farallones" ; Times: 1
+	Query: "115894" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "catalognumber:149386" ; Times: 1
+	Query: "genus:Halargyreus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:gila institutioncode:UWFC" ; Times: 1
+	Query: "genus:Chilara" ; Times: 1
+	Query: "genus:Cottus specificepithet:echinatus" ; Times: 1
+	Query: "genus:Cottus specificepithet:immaculatus" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 8
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "Psettina IIJIMAE" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "pterois lunulata" ; Times: 2
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "genus:Scytalina specificepithet:cerdale" ; Times: 1
+	Query: "vntype:specimen genus:gila stateprovince:&#34;washington&#34; institutioncode:UWFC" ; Times: 2
+	Query: "107388" ; Times: 1
+	Query: "Amblyraja badia" ; Times: 1
+	Query: "genus:Cottus specificepithet:bendirei" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "fieldnumber:2639" ; Times: 1
+	Query: "genus:Cyclothone specificepithet:atraria" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Lipariscus specificepithet:nanus" ; Times: 1
+	Query: "Bull Trout" ; Times: 2
+	Query: "Lamna" ; Times: 1
+	Query: "torpedo california" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:steindachneri" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "Bathyraja kincaidii" ; Times: 3
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "vntype:specimen genus:gila institutioncode:UWFC" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "genus:Cottus specificepithet:perplexus" ; Times: 1
+	Query: "genus:Cottus specificepithet:marginatus" ; Times: 1
+	Query: "137095" ; Times: 1
+	Query: "genus:Cottus specificepithet:amblystomopsis" ; Times: 1
+	Query: "genus:Hippichthys specificepithet:heptagonus" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "genus:Sigmops specificepithet:gracilis" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:gila stateprovince:&#34;washington&#34; institutioncode:UWFC" ; Times: 2
+	Query: "pelecanoides hastissue:1" ; Times: 2
+	Query: "genus:Stiphodon country:&#34;Federated States of Micronesia&#34;" ; Times: 2
+	Query: "132114" ; Times: 1
+	Query: "161267" ; Times: 1
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "175065" ; Times: 1
+	Query: "genus:Bothragonus specificepithet:swanii" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:starksi" ; Times: 1
+	Query: "specificepithet:paradoxus hastissue:1" ; Times: 1
+	Query: "genus:Allosmerus specificepithet:elongatus" ; Times: 1
+	Query: "161908" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "genus:Cottus specificepithet:hubbsi" ; Times: 1
+	Query: "Bathyraja microtrachys" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Psettina" ; Times: 2
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 4
+	Query: "genus:Cottus specificepithet:beldingii" ; Times: 1
+	Query: "Raja rhina" ; Times: 3
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "vntype:specimen genus:oncorhynchus lengthinmm &gt;= 200 lengthinmm &lt;= 10000 haslength:1" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "171555" ; Times: 1
+	Query: "Ambassis kopsii" ; Times: 1
+	Query: "genus:Cottus specificepithet:pollux" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:lanceolatus" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "Raja binoculata" ; Times: 4
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "117916" ; Times: 1
+	Query: "pterois russelli" ; Times: 1
+	Query: "genus:Lagocephalus specificepithet:suezensis" ; Times: 1
+	Query: "family:Lamnidae haslength:1" ; Times: 3
+	Query: "Protopterus" ; Times: 3
+	Query: "CM 5906" ; Times: 2
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "genus:Tarletonbeania specificepithet:crenularis" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 985 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "galapagos" ; Times: 1
+
+
+End of report.
