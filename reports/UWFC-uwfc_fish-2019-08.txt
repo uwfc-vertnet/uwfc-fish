@@ -1,0 +1,119 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 404
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 26
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 11
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-08 ; Times: 18
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-07 ; Times: 7
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-03 ; Times: 4
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-25 ; Times: 3
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "Hypophthalmus fimbriatus" ; Times: 1
+	Query: "Apogon lachneri mappable:1" ; Times: 2
+	Query: "115366" ; Times: 3
+	Query: "115365" ; Times: 1
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Geotria" ; Times: 1
+	Query: "Makaira nigricans" ; Times: 1
+	Query: "SMM" ; Times: 1
+	Query: "106348" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 1
+	Query: "genus:Gilbertidia specificepithet:sigalutes" ; Times: 1
+	Query: "genus:Taenioides country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Bull Trout" ; Times: 4
+	Query: "mummy" ; Times: 2
+	Query: "167624" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "100361" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 3
+	Query: "Anguilla australis" ; Times: 1
+	Query: "163374" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Priolepis hipoliti mappable:1" ; Times: 1
+	Query: "129791" ; Times: 1
+	Query: "DASYATIS centroura" ; Times: 1
+	Query: "129974" ; Times: 2
+	Query: "117046" ; Times: 1
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "genus:gila stateprovince:&#34;washington&#34; institutioncode:UWFC" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "genus:Bathylagus specificepithet:milleri" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 2
+	Query: "108252" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "dolly varden" ; Times: 2
+	Query: "oncorhynchus clarkii henshawi" ; Times: 1
+	Query: "genus:Trachinocephalus specificepithet:myops" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "Acanthemblemaria spinosa mappable:1" ; Times: 2
+	Query: "Papilio arcturus" ; Times: 1
+	Query: "vntype:specimen genus:gila stateprovince:&#34;washington&#34; institutioncode:UWFC" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 1
+	Query: "Platydoras costatus" ; Times: 1
+	Query: "156810" ; Times: 2
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "eel goby" ; Times: 1
+	Query: "Risor ruber mappable:1" ; Times: 1
+	Query: "Foraminifera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1034 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Philippines ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Palawan country:&#34;Philippines&#34;" ; Times: 1
+
+
+End of report.
