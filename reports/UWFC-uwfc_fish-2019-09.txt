@@ -1,0 +1,178 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 5955
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 63
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 43
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 7
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-23 ; Times: 4
+	Date: 2019-09-17 ; Times: 5
+	Date: 2019-09-10 ; Times: 49
+	Date: 2019-09-11 ; Times: 12
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 17
+	Date: 2019-09-20 ; Times: 9
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-25 ; Times: 6
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:prionotus hastissue:1" ; Times: 1
+	Query: "Odontopyxis trispinosa mappable:1" ; Times: 1
+	Query: "Crystallichthys cyclospilus mappable:1" ; Times: 1
+	Query: "Hemilepidotus spinosus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:gila institutioncode:UWFC" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Venefica procera mappable:1" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "&#34;Microlophichthys microlophus&#34;" ; Times: 2
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 4
+	Query: "Icelus spiniger mappable:1" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; institutioncode:UWFC" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 1
+	Query: "Ophidion scrippsae" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "Ammodytes personatus mappable:1" ; Times: 1
+	Query: "genus:pterygotrigla hastissue:1" ; Times: 1
+	Query: "Antrostomus hastissue:1" ; Times: 1
+	Query: "115807" ; Times: 1
+	Query: "Sebastes brevispinis mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Sebastes polyspinis mappable:1" ; Times: 1
+	Query: "M-175718" ; Times: 3
+	Query: "162261" ; Times: 2
+	Query: "Sphyraena argentea mappable:1" ; Times: 1
+	Query: "187142" ; Times: 3
+	Query: "Desmodema lorum mappable:1" ; Times: 1
+	Query: "Bull Trout" ; Times: 2
+	Query: "Aphanopus intermedius mappable:1" ; Times: 1
+	Query: "specificepithet:stephanophrys genus:prionotus hastissue:1" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "135738" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 2000 institutioncode:UWFC" ; Times: 3
+	Query: "recordedby:hatch year &gt;= 1910 year &lt;= 1930" ; Times: 1
+	Query: "Allocareproctus unangas mappable:1" ; Times: 4
+	Query: "Geotria australis" ; Times: 1
+	Query: "Notropis melanostomus" ; Times: 3
+	Query: "136319" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "specificepithet:ribeiroi genus:bellator" ; Times: 1
+	Query: "genus:peristedion hastissue:1" ; Times: 2
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "amphipods" ; Times: 1
+	Query: "Eumicrotremus gyrinops mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "gray fox" ; Times: 4
+	Query: "specificepithet:miles genus:prionotus hastissue:1" ; Times: 1
+	Query: "Bathyagonus infraspinatus mappable:1" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990 institutioncode:UWFC" ; Times: 2
+	Query: "Lycodes concolor mappable:1" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Nalbantichthys elongatus mappable:1" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Barbourisia rufa mappable:1" ; Times: 1
+	Query: "stickleback washington" ; Times: 1
+	Query: "specificepithet:birostratus genus:prionotus hastissue:1" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "specificepithet:birostratus genus:prionotus" ; Times: 1
+	Query: "specificepithet:evolans genus:prionotus hastissue:1" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 7
+	Query: "Stomias longibarbatus mappable:1" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "Radulinus asprellus mappable:1" ; Times: 1
+	Query: "Myoxocephalus octodecemspinosus mappable:1" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "Careproctus gilberti mappable:1" ; Times: 1
+	Query: "specificepithet:carolinus genus:prionotus hastissue:1" ; Times: 1
+	Query: "Poromitra cristiceps mappable:1" ; Times: 1
+	Query: "specificepithet:ribeiroi genus:bellator hastissue:1" ; Times: 1
+	Query: "Hemitripterus americanus mappable:1" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 2
+	Query: "Entosphenus tridentatus mappable:1" ; Times: 1
+	Query: "Chinook salmon" ; Times: 1
+	Query: "170432" ; Times: 1
+	Query: "Squalus suckleyi mappable:1" ; Times: 1
+	Query: "Paraliparis albeolus mappable:1" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Scarus psittacus" ; Times: 1
+	Query: "187549" ; Times: 1
+	Query: "Serrivomer jesperseni mappable:1" ; Times: 1
+	Query: "Jordania zonope mappable:1" ; Times: 1
+	Query: "specimen 187142" ; Times: 1
+	Query: "Sebastes paucispinis mappable:1" ; Times: 1
+	Query: "Aspidophoroides monopterygius mappable:1" ; Times: 1
+	Query: "Clupea pallasii pallasii mappable:1" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1073 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 1
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "specificepithet:NICHOLSI genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.
