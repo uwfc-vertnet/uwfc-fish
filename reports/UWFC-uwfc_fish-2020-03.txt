@@ -1,0 +1,247 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 212
+Number of records retrieved in searches: 474
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Cuba ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Switzerland ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: United States ; Times: 177
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-28 ; Times: 31
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 20
+	Date: 2020-03-18 ; Times: 14
+	Date: 2020-03-19 ; Times: 12
+	Date: 2020-03-09 ; Times: 7
+	Date: 2020-03-15 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 18
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-27 ; Times: 5
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 3
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 13
+	Date: 2020-03-22 ; Times: 9
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 20
+	Date: 2020-03-04 ; Times: 7
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-03 ; Times: 14
+	Date: 2020-03-02 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "153573" ; Times: 1
+	Query: "180204" ; Times: 1
+	Query: "catalognumber:163269" ; Times: 2
+	Query: "DOT-188" ; Times: 3
+	Query: "100570" ; Times: 1
+	Query: "167705" ; Times: 1
+	Query: "109988" ; Times: 1
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "109193" ; Times: 1
+	Query: "188645" ; Times: 1
+	Query: "110804" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "Chlorurus sordidus mappable:1" ; Times: 1
+	Query: "Hypoatherina barnesi mappable:1" ; Times: 4
+	Query: "128314" ; Times: 1
+	Query: "160951" ; Times: 1
+	Query: "128705" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "catalognumber:112551" ; Times: 1
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "catalognumber:112554" ; Times: 2
+	Query: "catalognumber:026122 institutioncode:UWFC" ; Times: 1
+	Query: "165054" ; Times: 2
+	Query: "107116" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 14
+	Query: "107114" ; Times: 1
+	Query: "catalognumber:163256" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "157834" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "152808" ; Times: 1
+	Query: "176527" ; Times: 1
+	Query: "catalognumber:026118 institutioncode:UWFC" ; Times: 2
+	Query: "110080" ; Times: 1
+	Query: "183797" ; Times: 1
+	Query: "CM 7580" ; Times: 1
+	Query: "179541" ; Times: 1
+	Query: "162520" ; Times: 1
+	Query: "catalognumber:016925 institutioncode:UWFC" ; Times: 2
+	Query: "101701" ; Times: 2
+	Query: "Stenatherina panatela mappable:1" ; Times: 1
+	Query: "157299" ; Times: 1
+	Query: "catalognumber:112542" ; Times: 1
+	Query: "116305" ; Times: 1
+	Query: "120849" ; Times: 1
+	Query: "(frog) AND (NOT Australia) haslength:1" ; Times: 2
+	Query: "113681" ; Times: 1
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "Protomyctophum choriodon" ; Times: 1
+	Query: "(042489)" ; Times: 2
+	Query: "13619" ; Times: 2
+	Query: "106816" ; Times: 1
+	Query: "Chlorurus japanensis mappable:1" ; Times: 1
+	Query: "Leptoscarus vaigiensis mappable:1" ; Times: 1
+	Query: "country:&#34;United States&#34; (frog) AND (NOT &#34;Australia&#34;) haslength:1" ; Times: 2
+	Query: "Scarus prasiognathos mappable:1" ; Times: 1
+	Query: "V 1132" ; Times: 1
+	Query: "139482" ; Times: 1
+	Query: "139485" ; Times: 1
+	Query: "113516" ; Times: 1
+	Query: "128296" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Chlorurus frontalis mappable:1" ; Times: 1
+	Query: "128354" ; Times: 1
+	Query: "154687" ; Times: 1
+	Query: "128298" ; Times: 1
+	Query: "149025" ; Times: 1
+	Query: "Scarus niger mappable:1" ; Times: 1
+	Query: "Bedotia" ; Times: 1
+	Query: "178304" ; Times: 1
+	Query: "catalognumber:018222 institutioncode:UWFC" ; Times: 1
+	Query: "Uropterygius micropterus" ; Times: 1
+	Query: "113603" ; Times: 1
+	Query: "128468" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "168780" ; Times: 1
+	Query: "128792" ; Times: 1
+	Query: "177115" ; Times: 1
+	Query: "CM 102020" ; Times: 1
+	Query: "CM 102021" ; Times: 1
+	Query: "Chlorurus microrhinos mappable:1" ; Times: 3
+	Query: "Scarus oviceps mappable:1" ; Times: 1
+	Query: "156080" ; Times: 1
+	Query: "110689" ; Times: 2
+	Query: "catalognumber:041646 institutioncode:UWFC" ; Times: 3
+	Query: "156088" ; Times: 1
+	Query: "123889" ; Times: 1
+	Query: "Atherinomorus pinguis mappable:1" ; Times: 3
+	Query: "Sparisoma cretense mappable:1" ; Times: 1
+	Query: "anguilla marmorata" ; Times: 1
+	Query: "128920" ; Times: 1
+	Query: "128925" ; Times: 1
+	Query: "172118" ; Times: 2
+	Query: "103852" ; Times: 1
+	Query: "Hypoatherina ovalaua mappable:1" ; Times: 1
+	Query: "115522" ; Times: 1
+	Query: "118930" ; Times: 1
+	Query: "151107" ; Times: 1
+	Query: "151344" ; Times: 1
+	Query: "128339" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "catalognumber:004794 institutioncode:UWFC" ; Times: 1
+	Query: "110524" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "154497" ; Times: 1
+	Query: "188646" ; Times: 1
+	Query: "129118" ; Times: 1
+	Query: "Scarus schlegeli mappable:1" ; Times: 1
+	Query: "113012" ; Times: 1
+	Query: "catalognumber:112545" ; Times: 1
+	Query: "catalognumber:004925 institutioncode:UWFC" ; Times: 1
+	Query: "Scarus altipinnis mappable:1" ; Times: 1
+	Query: "151528" ; Times: 1
+	Query: "127286" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 2
+	Query: "140357" ; Times: 1
+	Query: "120152" ; Times: 1
+	Query: "176478" ; Times: 2
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "pantera" ; Times: 1
+	Query: "Hypoatherina temminckii mappable:1" ; Times: 2
+	Query: "112121" ; Times: 1
+	Query: "(041198)" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Scarus hypselopterus mappable:1" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "130611" ; Times: 1
+	Query: "Scarus dubius mappable:1" ; Times: 1
+	Query: "Diaphus gigas" ; Times: 1
+	Query: "174639" ; Times: 1
+	Query: "111297" ; Times: 1
+	Query: "174637" ; Times: 1
+	Query: "128439" ; Times: 1
+	Query: "112331" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "119493" ; Times: 1
+	Query: "120271" ; Times: 1
+	Query: "Sarda chiliensis" ; Times: 1
+	Query: "Scarus frenatus mappable:1" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "Cetoscarus bicolor mappable:1" ; Times: 1
+	Query: "Atherinomorus insularum mappable:1" ; Times: 3
+	Query: "130291" ; Times: 1
+	Query: "119357" ; Times: 2
+	Query: "120125" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "156339" ; Times: 1
+	Query: "Scarus globiceps mappable:1" ; Times: 2
+	Query: "Chlorurus perspicillatus mappable:1" ; Times: 1
+	Query: "catalognumber:163272" ; Times: 1
+	Query: "172725" ; Times: 1
+	Query: "specificepithet:diabolis" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "129120" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "128542" ; Times: 1
+	Query: "38031" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 853 download events in this period)
+Total number of records downloaded: 76
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Protomyctophum choriodon" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "101701" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+
+
+End of report.
