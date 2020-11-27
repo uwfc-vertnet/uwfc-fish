@@ -1,0 +1,181 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Austria ; Times: 1
+	Country: United States ; Times: 116
+	Country: Sweden ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 4
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 6
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-07 ; Times: 22
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-09 ; Times: 3
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-10 ; Times: 11
+	Date: 2020-05-11 ; Times: 18
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-03 ; Times: 5
+	Date: 2020-05-15 ; Times: 13
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "165757" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "158008" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "158005" ; Times: 1
+	Query: "158007" ; Times: 1
+	Query: "200187" ; Times: 1
+	Query: "149300" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "165471" ; Times: 1
+	Query: "165473" ; Times: 1
+	Query: "158013" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "187155" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "inegocia japonica" ; Times: 1
+	Query: "chirophryne xenolophus" ; Times: 1
+	Query: "156117" ; Times: 1
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 5
+	Query: "156057" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "175281" ; Times: 1
+	Query: "179064" ; Times: 1
+	Query: "179061" ; Times: 1
+	Query: "157504" ; Times: 1
+	Query: "165755" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "129486" ; Times: 1
+	Query: "136482" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "179400" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "180098" ; Times: 1
+	Query: "180099" ; Times: 1
+	Query: "175967" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "157288" ; Times: 1
+	Query: "175963" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "157285" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "147948" ; Times: 1
+	Query: "120938" ; Times: 1
+	Query: "Enchelynassa canina" ; Times: 2
+	Query: "174980" ; Times: 2
+	Query: "171353" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "V-1132" ; Times: 3
+	Query: "200175" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "184152" ; Times: 1
+	Query: "157973" ; Times: 2
+	Query: "158103" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "165634" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "161669" ; Times: 1
+	Query: "175278" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "180130" ; Times: 1
+	Query: "164075" ; Times: 1
+	Query: "156311" ; Times: 1
+	Query: "147969" ; Times: 1
+	Query: "147968" ; Times: 1
+	Query: "187110" ; Times: 1
+	Query: "156711" ; Times: 1
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "132136" ; Times: 1
+	Query: "158102" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "147365" ; Times: 1
+	Query: "181119" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "157015" ; Times: 1
+	Query: "200280" ; Times: 2
+	Query: "151630" ; Times: 1
+	Query: "169592" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "162690" ; Times: 2
+	Query: "162694" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "121605" ; Times: 1
+	Query: "149391" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "184657" ; Times: 1
+	Query: "162687" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "157122" ; Times: 1
+	Query: "162688" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "165467" ; Times: 1
+	Query: "ellochelon" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1106 download events in this period)
+Total number of records downloaded: 790
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 1
+
+
+End of report.
