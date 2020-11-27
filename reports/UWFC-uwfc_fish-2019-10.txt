@@ -1,0 +1,213 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 3461
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 10
+	Country: New Zealand ; Times: 116
+	Country: United States ; Times: 61
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-21 ; Times: 10
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-24 ; Times: 61
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-07 ; Times: 11
+	Date: 2019-10-23 ; Times: 69
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-14 ; Times: 6
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 8
+	Date: 2019-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Raja texana" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Orectolobus ornatus" ; Times: 2
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "vitreus Sander" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Bathyraja mariposa" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "Amblyraja jenseni" ; Times: 1
+	Query: "Rhinoptera steindachneri" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "Leuciscus waleckii" ; Times: 1
+	Query: "fieldnumber:TAO" ; Times: 1
+	Query: "Empetrichthys pahrump" ; Times: 1
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "toxotes" ; Times: 1
+	Query: "125203" ; Times: 1
+	Query: "greenling" ; Times: 1
+	Query: "locality:New Hanover" ; Times: 2
+	Query: "Diplophos orientalis" ; Times: 1
+	Query: "Eremichthys acros" ; Times: 1
+	Query: "176633" ; Times: 1
+	Query: "Bathyraja violacea" ; Times: 1
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Amblyraja badia" ; Times: 1
+	Query: "catalognumber:175828" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "162261" ; Times: 2
+	Query: "catalognumber:132431" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Bathyraja minispinosa" ; Times: 2
+	Query: "Raja rhina" ; Times: 2
+	Query: "Basking shark" ; Times: 1
+	Query: "Chiloscyllium plagiosum" ; Times: 2
+	Query: "Empetrichthys Latos pahrump" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Bathyraja panthera" ; Times: 1
+	Query: "187306" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Lamna ditropis" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "103914" ; Times: 1
+	Query: "200252" ; Times: 1
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Nebrius ferrugineus" ; Times: 2
+	Query: "cm 1322" ; Times: 2
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 1
+	Query: "Euprotomicrus bispinatus" ; Times: 2
+	Query: "178304" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Bathyraja taranetzi" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "krameri Umbra" ; Times: 1
+	Query: "catalognumber:160983" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Tetronarce californica" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "Mola mola mappable:0" ; Times: 10
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "gray fox" ; Times: 6
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Scyliorhinus torazame" ; Times: 1
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "Oreochromis sp" ; Times: 1
+	Query: "Leptostomias" ; Times: 1
+	Query: "Halaelurus buergeri" ; Times: 1
+	Query: "green sturgeon" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "109732" ; Times: 1
+	Query: "173976" ; Times: 1
+	Query: "Raja stellulata" ; Times: 2
+	Query: "178836" ; Times: 2
+	Query: "SP 9397" ; Times: 1
+	Query: "ZMUC" ; Times: 1
+	Query: "Bathyraja matsubarai" ; Times: 1
+	Query: "139695" ; Times: 2
+	Query: "110218" ; Times: 1
+	Query: "Bathyraja smirnovi" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Bathyraja aleutica" ; Times: 2
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "pantera" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "131983" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "chanos chanos vntype:specimen haslifestage:1" ; Times: 1
+	Query: "Centroscyllium nigrum" ; Times: 1
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "Apristurus kampae" ; Times: 1
+	Query: "asper Cottus" ; Times: 4
+	Query: "128373" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "186599" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "Bathyraja lindbergi" ; Times: 1
+	Query: "180131" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "135675" ; Times: 1
+	Query: "176443" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Heterodontus omanensis" ; Times: 1
+	Query: "120011" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Alopias" ; Times: 1
+	Query: "Raja clavata" ; Times: 2
+	Query: "Protopterus" ; Times: 1
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "melanostomias melanops" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "128383" ; Times: 1
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Squatina californica" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1308 download events in this period)
+Total number of records downloaded: 62
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "chanos chanos vntype:specimen haslifestage:1" ; Times: 2
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+	Query: "genus:Galeorhinus stateprovince:California" ; Times: 1
+
+
+End of report.
