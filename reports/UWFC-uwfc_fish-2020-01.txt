@@ -1,0 +1,229 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 297
+Number of records retrieved in searches: 1555
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 114
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 162
+	Country: United Kingdom ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-03 ; Times: 7
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-01 ; Times: 67
+	Date: 2020-01-07 ; Times: 5
+	Date: 2020-01-05 ; Times: 46
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 8
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 15
+	Date: 2020-01-25 ; Times: 28
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-29 ; Times: 40
+	Date: 2020-01-14 ; Times: 4
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 16
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 12
+	Date: 2020-01-11 ; Times: 13
+	Date: 2020-01-12 ; Times: 11
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 4
+	Query: "Myctophum obtusirostre mappable:1" ; Times: 2
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 2
+	Query: "genus:cubiceps distance(location,geopoint(17.900651627208802,-169.51309170807917))&lt;3426948" ; Times: 1
+	Query: "Opistognathus maxillosus mappable:1" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "148446" ; Times: 1
+	Query: "109191" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 4
+	Query: "179163" ; Times: 1
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 6
+	Query: "Venefica procera mappable:1" ; Times: 3
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 4
+	Query: "Bullisichthys caribbaeus mappable:1" ; Times: 2
+	Query: "105377" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 4
+	Query: "reticulata Poecilia" ; Times: 1
+	Query: "Scopeloberyx opisthopterus mappable:1" ; Times: 4
+	Query: "111121" ; Times: 1
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 2
+	Query: "155619" ; Times: 1
+	Query: "scientificname:Naso brevirostris mappable:1" ; Times: 2
+	Query: "osculus Rhinichthys" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 1
+	Query: "115966" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 2
+	Query: "Diplospinus multistriatus mappable:1" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 6
+	Query: "Mugil trichodon mappable:1" ; Times: 2
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "Ablennes hians mappable:1" ; Times: 2
+	Query: "Howella brodiei  mappable:1" ; Times: 3
+	Query: "Malacocephalus laevis mappable:1" ; Times: 5
+	Query: "nealotus tripes" ; Times: 1
+	Query: "genus:cubiceps haslength:1" ; Times: 2
+	Query: "116798" ; Times: 1
+	Query: "116799" ; Times: 1
+	Query: "Seriola rivoliana mappable:1" ; Times: 2
+	Query: "Aldrovandia affinis mappable:1" ; Times: 5
+	Query: "Oxyporhamphus micropterus micropterus mappable:1" ; Times: 1
+	Query: "124065" ; Times: 2
+	Query: "scientificname:Naso tuberosus mappable:1" ; Times: 1
+	Query: "specificepithet:exilicauda genus:Lavinia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "179864" ; Times: 1
+	Query: "Malacoctenus macropus mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus triostegus mappable:1" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 3
+	Query: "namaycush Salvelinus" ; Times: 2
+	Query: "genus:cubiceps distance(location,geopoint(17.900651627208802,-169.51309170807917))&lt;2950438" ; Times: 1
+	Query: "scientificname:Acanthurus gahhm mappable:1" ; Times: 3
+	Query: "scientificname:Zebrasoma rostratum mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus nigrofuscus mappable:1" ; Times: 3
+	Query: "mykiss Oncorhynchus" ; Times: 4
+	Query: "scientificname:Zebrasoma flavescens mappable:1" ; Times: 1
+	Query: "scientificname:Atherinops affinis mappable:1" ; Times: 6
+	Query: "178136" ; Times: 1
+	Query: "genus:cubiceps distance(location,geopoint(9.368094188208824,179.94003329192083))&lt;3426947.5564147145" ; Times: 1
+	Query: "180098" ; Times: 1
+	Query: "128596" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 1
+	Query: "scientificname:Zebrasoma scopas mappable:1" ; Times: 3
+	Query: "Menidia menidia" ; Times: 2
+	Query: "109716" ; Times: 1
+	Query: "126807" ; Times: 1
+	Query: "careproctus colletti" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "family:molidae" ; Times: 10
+	Query: "Thunnus albacares mappable:1" ; Times: 3
+	Query: "catalognumber:134710" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 3
+	Query: "Risor ruber mappable:1" ; Times: 1
+	Query: "140174" ; Times: 1
+	Query: "scientificname:Ctenochaetus strigosus mappable:1" ; Times: 2
+	Query: "scientificname:Acanthurus guttatus mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus xanthopterus mappable:1" ; Times: 3
+	Query: "bat ray" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "110205" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "104028 cm" ; Times: 1
+	Query: "scientificname:Acanthurus nigricans mappable:1" ; Times: 2
+	Query: "rainbow snake" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Symphysanodon berryi mappable:1" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 4
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "genus:cubiceps distance(location,geopoint(9.368094188208824,179.94003329192083))&lt;4194297" ; Times: 1
+	Query: "family:molidae haslifestage:1" ; Times: 12
+	Query: "(nigrocinctus) hastissue:1" ; Times: 1
+	Query: "Ctenogobius saepepallens mappable:1" ; Times: 1
+	Query: "scientificname:Naso hexacanthus mappable:1" ; Times: 1
+	Query: "Acanthemblemaria spinosa mappable:1" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 3
+	Query: "Gillellus uranidea mappable:1" ; Times: 1
+	Query: "187110" ; Times: 1
+	Query: "NMNZ" ; Times: 1
+	Query: "164673" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "Malacoctenus erdmani mappable:1" ; Times: 1
+	Query: "Stegastes adustus mappable:1" ; Times: 1
+	Query: "scientificname:Ctenochaetus striatus mappable:1" ; Times: 2
+	Query: "160370" ; Times: 1
+	Query: "scientificname:Naso unicornis mappable:1" ; Times: 1
+	Query: "Melanocetus murrayi  mappable:1" ; Times: 2
+	Query: "Apogon lachneri mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "CM 104063" ; Times: 1
+	Query: "125740" ; Times: 1
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 1
+	Query: "189327" ; Times: 1
+	Query: "careproctus melanurus" ; Times: 2
+	Query: "Malacoctenus gilli mappable:1" ; Times: 1
+	Query: "185802" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 7
+	Query: "102707" ; Times: 1
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 1
+	Query: "Auxis rochei rochei rochei mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus nigroris mappable:1" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 6
+	Query: "116269" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 2
+	Query: "169605" ; Times: 1
+	Query: "Chaunax suttkusi mappable:1" ; Times: 3
+	Query: "Myctophum selenops mappable:1" ; Times: 2
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 3
+	Query: "Priolepis hipoliti mappable:1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "Pterois volitans mappable:1" ; Times: 4
+	Query: "012996" ; Times: 1
+	Query: "Permits us" ; Times: 3
+	Query: "scientificname:Acanthurus olivaceus mappable:1" ; Times: 1
+	Query: "plectropomus areolatus" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus achilles mappable:1" ; Times: 1
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 1
+	Query: "148451" ; Times: 1
+	Query: "scientificname:Naso lituratus mappable:1" ; Times: 1
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 2
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 3
+	Query: "119592" ; Times: 1
+	Query: "100760" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 3
+	Query: "Opistognathus macrognathus mappable:1" ; Times: 1
+	Query: "locality:triangle island stateprovince:&#34;british columbia&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Ctenogobius fasciatus mappable:1" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1584 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Electrona risso" ; Times: 1
+	Query: "genus:cubiceps distance(location,geopoint(9.368094188208824,179.94003329192083))&lt;4194297" ; Times: 1
+	Query: "Benthosema suborbitale" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Ceratoscopelus warmingii" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "specificepithet:exilicauda genus:Lavinia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "Diogenichthys atlanticus" ; Times: 1
+
+
+End of report.
