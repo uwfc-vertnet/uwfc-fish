@@ -1,0 +1,189 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 514
+Number of records retrieved in searches: 1714
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 2
+	Country: Singapore ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 452
+	Country: United States ; Times: 52
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 7
+	Date: 2019-12-27 ; Times: 41
+	Date: 2019-12-26 ; Times: 82
+	Date: 2019-12-21 ; Times: 132
+	Date: 2019-12-20 ; Times: 68
+	Date: 2019-12-22 ; Times: 6
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 108
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-12 ; Times: 7
+	Date: 2019-12-13 ; Times: 6
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 6
+	Date: 2019-12-31 ; Times: 8
+	Date: 2019-12-09 ; Times: 7
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-06 ; Times: 9
+	Date: 2019-12-05 ; Times: 7
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 7
+	Query: "mustelus henlei" ; Times: 2
+	Query: "Myctophum obtusirostre mappable:1" ; Times: 5
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 2
+	Query: "Opistognathus maxillosus mappable:1" ; Times: 9
+	Query: "Auxis rochei rochei mappable:1" ; Times: 2
+	Query: "109195" ; Times: 1
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 8
+	Query: "Venefica procera mappable:1" ; Times: 4
+	Query: "wizard" ; Times: 1
+	Query: "Bullisichthys caribbaeus mappable:1" ; Times: 4
+	Query: "Ctenogobius saepepallens mappable:1" ; Times: 12
+	Query: "110738" ; Times: 1
+	Query: "Scopeloberyx opisthopterus mappable:1" ; Times: 7
+	Query: "124577" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 13
+	Query: "Diplospinus multistriatus mappable:1" ; Times: 7
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 9
+	Query: "Syngnathidae haslength:1 sex:male" ; Times: 1
+	Query: "Mugil trichodon mappable:1" ; Times: 9
+	Query: "Zalieutes elater" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Scarus iseri mappable:1" ; Times: 5
+	Query: "Howella brodiei  mappable:1" ; Times: 4
+	Query: "Malacocephalus laevis mappable:1" ; Times: 4
+	Query: "Seriola rivoliana mappable:1" ; Times: 3
+	Query: "Aldrovandia affinis mappable:1" ; Times: 4
+	Query: "Oxyporhamphus micropterus micropterus mappable:1" ; Times: 2
+	Query: "155405" ; Times: 1
+	Query: "vntype:specimen genus:gadus institutioncode:UWFC haslength:1" ; Times: 1
+	Query: "124580" ; Times: 1
+	Query: "020195" ; Times: 1
+	Query: "catalognumber:163690" ; Times: 1
+	Query: "116149" ; Times: 1
+	Query: "Malacoctenus macropus mappable:1" ; Times: 2
+	Query: "gladiator" ; Times: 2
+	Query: "Tridentiger trigonocephalus" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 18
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 4
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 8
+	Query: "catalognumber:164755" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 18
+	Query: "specificepithet:aurora county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 10
+	Query: "Naucrates ductor mappable:1" ; Times: 3
+	Query: "Antennarius striatus mappable:1" ; Times: 12
+	Query: "Centropomus undecimalis mappable:1" ; Times: 16
+	Query: "Thunnus albacares mappable:1" ; Times: 2
+	Query: "specificepithet:melas genus:Ameiurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 2
+	Query: "Opistognathus macrognathus mappable:1" ; Times: 9
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 7
+	Query: "200175" ; Times: 1
+	Query: "139834" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "28549" ; Times: 1
+	Query: "male Syngnathidae haslength:1" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 11
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Symphysanodon berryi mappable:1" ; Times: 3
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "unah" ; Times: 2
+	Query: "156384" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "163509" ; Times: 1
+	Query: "Rhodeus sericeus" ; Times: 4
+	Query: "Gempylus serpens mappable:1" ; Times: 7
+	Query: "specificepithet:nebulosus genus:Ameiurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 5
+	Query: "specificepithet:immaculatus genus:Cottus" ; Times: 1
+	Query: "Acanthemblemaria spinosa mappable:1" ; Times: 13
+	Query: "perccottus glenii" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "Gillellus uranidea mappable:1" ; Times: 16
+	Query: "014872" ; Times: 1
+	Query: "Malacoctenus erdmani mappable:1" ; Times: 2
+	Query: "Stegastes adustus mappable:1" ; Times: 5
+	Query: "Apogon lachneri mappable:1" ; Times: 14
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "Fistularia commersonii" ; Times: 2
+	Query: "echidna zebra" ; Times: 3
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 10
+	Query: "Malacoctenus gilli mappable:1" ; Times: 2
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "Prionotus ruscarius" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Syngnathidae sex:male haslength:1" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+	Query: "myripristis Seychelles" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 11
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 4
+	Query: "Chaunax suttkusi mappable:1" ; Times: 4
+	Query: "Myctophum selenops mappable:1" ; Times: 5
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 18
+	Query: "Priolepis hipoliti mappable:1" ; Times: 9
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "125787" ; Times: 1
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 16
+	Query: "Stegastes leucostictus mappable:1" ; Times: 5
+	Query: "154973" ; Times: 1
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 2
+	Query: "160714" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 3
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 2
+	Query: "catalognumber:139025" ; Times: 1
+	Query: "Melanocetus murrayi  mappable:1" ; Times: 7
+	Query: "147931" ; Times: 1
+	Query: "vntype:specimen genus:gadus institutioncode:UWFC" ; Times: 1
+	Query: "Risor ruber mappable:1" ; Times: 11
+	Query: "Ctenogobius fasciatus mappable:1" ; Times: 12
+	Query: "Pterois volitans mappable:1" ; Times: 5
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 596 download events in this period)
+Total number of records downloaded: 76
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:immaculatus genus:Cottus" ; Times: 1
+	Query: "perccottus glenii" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "fish vntype:specimen (new york) hastissue:1" ; Times: 1
+
+
+End of report.
