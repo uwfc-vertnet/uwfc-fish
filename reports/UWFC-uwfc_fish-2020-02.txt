@@ -1,0 +1,171 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 1454
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 84
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-05 ; Times: 22
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 3
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 9
+	Date: 2020-02-10 ; Times: 9
+	Date: 2020-02-13 ; Times: 8
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 10
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-03 ; Times: 12
+	Date: 2020-02-06 ; Times: 5
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "128589" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "188093" ; Times: 1
+	Query: "scientificname:Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "Crystallichthys cyclospilus" ; Times: 2
+	Query: "Brachionichthys" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "184640" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "154450" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Thymichthys" ; Times: 1
+	Query: "Liparis fucensis" ; Times: 1
+	Query: "16240" ; Times: 1
+	Query: "151306" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "rhinogobius" ; Times: 6
+	Query: "molidae" ; Times: 2
+	Query: "184986" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "122925" ; Times: 1
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "176095" ; Times: 1
+	Query: "Chinook salmon" ; Times: 1
+	Query: "170267" ; Times: 1
+	Query: "149887" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "110015" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "Sympterichthys" ; Times: 1
+	Query: "dwarf seahorse" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "124774" ; Times: 1
+	Query: "specificepithet:mitratus hastissue:1" ; Times: 1
+	Query: "172160" ; Times: 1
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "184512" ; Times: 1
+	Query: "164850" ; Times: 1
+	Query: "flathead catfish" ; Times: 1
+	Query: "168967" ; Times: 1
+	Query: "184265" ; Times: 1
+	Query: "161777" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Careproctus ovigerus" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "gbifdatasetid:831234b2-f762-11e1-a439-00145eb45e9a" ; Times: 7
+	Query: "hsu" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 3
+	Query: "181285" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "catalognumber:147193" ; Times: 1
+	Query: "Brachiopsilus" ; Times: 1
+	Query: "181212" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1023 download events in this period)
+Total number of records downloaded: 92
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: Guyana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+
+
+End of report.
