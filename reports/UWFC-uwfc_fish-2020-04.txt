@@ -1,0 +1,331 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1206
+Number of records retrieved in searches: 75057
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: United States ; Times: 51
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: United Kingdom ; Times: 1119
+	Country: Ireland ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Eswatini ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-03 ; Times: 81
+	Date: 2020-04-07 ; Times: 181
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-13 ; Times: 7
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 21
+	Date: 2020-04-06 ; Times: 18
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 12
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-21 ; Times: 152
+	Date: 2020-04-01 ; Times: 5
+	Date: 2020-04-02 ; Times: 6
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 697
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 5
+	Query: "Ambassis miops" ; Times: 5
+	Query: "Cirrhinus reba" ; Times: 5
+	Query: "171739" ; Times: 2
+	Query: "Lepidopsetta bilineata" ; Times: 5
+	Query: "Blepsias cirrhosus" ; Times: 3
+	Query: "Myoxocephalus aenaeus" ; Times: 8
+	Query: "Esox lucius" ; Times: 10
+	Query: "Coregonus clupeaformis" ; Times: 5
+	Query: "Spirinchus starksi" ; Times: 5
+	Query: "Isopsetta isolepis" ; Times: 5
+	Query: "Anguilla japonica" ; Times: 6
+	Query: "Gerres oyena" ; Times: 5
+	Query: "Stenodus leucichthys" ; Times: 5
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "catalognumber:001876 institutioncode:UWFC" ; Times: 2
+	Query: "Tinca tinca" ; Times: 7
+	Query: "wizard" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Oncorhynchus clarkii" ; Times: 8
+	Query: "100852" ; Times: 2
+	Query: "Myoxocephalus scorpius" ; Times: 8
+	Query: "Gymnocanthus tricuspis" ; Times: 8
+	Query: "Hyporhamphus quoyi" ; Times: 5
+	Query: "catalognumber:001396 institutioncode:UWFC" ; Times: 2
+	Query: "Trachurus mediterraneus" ; Times: 5
+	Query: "Gymnocanthus herzensteini" ; Times: 5
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Leuciscus waleckii" ; Times: 12
+	Query: "Coregonus sardinella" ; Times: 5
+	Query: "Rhadinesthes decimus" ; Times: 1
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "169550" ; Times: 1
+	Query: "Eumesogrammus praecisus" ; Times: 4
+	Query: "Caesio Caerulaurea" ; Times: 2
+	Query: "180276" ; Times: 2
+	Query: "Gila robusta" ; Times: 2
+	Query: "Carangoides ferdau" ; Times: 5
+	Query: "scientificname:(Ctenogobius boleosoma OR Gobionellus boleosoma) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Acipenser brevirostrum) country:United States mappable:1" ; Times: 1
+	Query: "Argyrocottus zanderi" ; Times: 5
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "P. aleuticus" ; Times: 6
+	Query: "Hirundichthys oxycephalus" ; Times: 5
+	Query: "Limanda sakhalinensis" ; Times: 5
+	Query: "173967" ; Times: 1
+	Query: "Decapterus macrosoma" ; Times: 5
+	Query: "Colossoma macropomum" ; Times: 9
+	Query: "Limanda aspera" ; Times: 5
+	Query: "Eremichthys acros" ; Times: 7
+	Query: "Oreochromis aureus" ; Times: 22
+	Query: "Cottus ricei" ; Times: 10
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Salvelinus leucomaenis" ; Times: 5
+	Query: "Porocottus camtschaticus" ; Times: 5
+	Query: "Gobio gobio" ; Times: 7
+	Query: "Pungitius tymensis" ; Times: 14
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Trachurus symmetricus" ; Times: 5
+	Query: "catalognumber:001404 institutioncode:UWFC" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 21
+	Query: "Symphysodon discus" ; Times: 2
+	Query: "Oncorhynchus masou" ; Times: 3
+	Query: "Gasterosteus wheatlandi" ; Times: 7
+	Query: "Siphateles bicolor" ; Times: 14
+	Query: "Lampetra planeri" ; Times: 2
+	Query: "Leptocottus armatus" ; Times: 5
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Margariscus margarita" ; Times: 7
+	Query: "Sardinella brachysoma" ; Times: 5
+	Query: "Decapterus kurroides" ; Times: 5
+	Query: "Glyptocephalus stelleri" ; Times: 5
+	Query: "Triglops scepticus" ; Times: 5
+	Query: "Rainbow snake" ; Times: 2
+	Query: "catalognumber:001975 institutioncode:UWFC" ; Times: 2
+	Query: "Cleisthenes pinetorum" ; Times: 5
+	Query: "scientificname:(Ctenogobius shufeldti OR Gobionellus shufeldti) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Myoxocephalus brandtii" ; Times: 5
+	Query: "stateprovince:&#34;washington&#34; institutioncode:UWFC" ; Times: 1
+	Query: "Lepidopsetta mochigarei" ; Times: 5
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Aulichthys japonicus" ; Times: 7
+	Query: "Radulinus asprellus" ; Times: 5
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Lavinia exilicauda" ; Times: 14
+	Query: "175761" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 5
+	Query: "Mallotus villosus" ; Times: 5
+	Query: "Novumbra hubbsi" ; Times: 3
+	Query: "Anguilla australis" ; Times: 6
+	Query: "19481229" ; Times: 1
+	Query: "Merluccius productus" ; Times: 6
+	Query: "Cypselurus poecilopterus" ; Times: 5
+	Query: "Myoxocephalus jaok" ; Times: 8
+	Query: "Enophrys bison" ; Times: 5
+	Query: "160588" ; Times: 1
+	Query: "173958" ; Times: 1
+	Query: "Engraulis japonicus" ; Times: 4
+	Query: "Cottus gobio" ; Times: 10
+	Query: "168093" ; Times: 1
+	Query: "Cleisthenes herzensteini" ; Times: 5
+	Query: "183608" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "catalognumber:002012 institutioncode:UWFC" ; Times: 2
+	Query: "Stichaeus grigorjewi" ; Times: 4
+	Query: "Pristella maxillaris" ; Times: 4
+	Query: "Channa striata" ; Times: 5
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Ichthyomyzon fossor" ; Times: 2
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "Parastromateus niger" ; Times: 5
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Salvelinus alpinus" ; Times: 5
+	Query: "Cottus amblystomopsis" ; Times: 3
+	Query: "183610" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Trachurus japonicus" ; Times: 5
+	Query: "Cynoscion arenarius" ; Times: 3
+	Query: "111653" ; Times: 1
+	Query: "Sardinella fimbriata" ; Times: 5
+	Query: "Hucho taimen" ; Times: 2
+	Query: "Arius manillensis" ; Times: 5
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Triacanthus biaculeatus" ; Times: 2
+	Query: "Siganus spinus" ; Times: 5
+	Query: "cobitis taenia" ; Times: 1
+	Query: "Spirinchus thaleichthys" ; Times: 5
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "Hypomesus japonicus" ; Times: 5
+	Query: "Eurymen gyrinus" ; Times: 5
+	Query: "183611" ; Times: 1
+	Query: "Myoxocephalus stelleri" ; Times: 5
+	Query: "catalognumber:163323" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Pholis gunnellus" ; Times: 5
+	Query: "catalognumber:022471 institutioncode:UWFC" ; Times: 2
+	Query: "catalognumber:002017 institutioncode:UWFC" ; Times: 2
+	Query: "Brachymystax lenok" ; Times: 3
+	Query: "153538" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 5
+	Query: "Limanda limanda" ; Times: 5
+	Query: "locality:salish institutioncode:UWFC" ; Times: 1
+	Query: "Sander canadensis" ; Times: 11
+	Query: "scientificname:(Jordanella floridae) country:United States mappable:1" ; Times: 1
+	Query: "Glyptocephalus zachirus" ; Times: 5
+	Query: "Electrophorus electricus" ; Times: 8
+	Query: "Ambassis gymnocephalus" ; Times: 5
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Cypselurus opisthopus" ; Times: 5
+	Query: "164255" ; Times: 1
+	Query: "Lepidopsetta polyxystra" ; Times: 5
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "lateolabrax japonicus" ; Times: 1
+	Query: "122876" ; Times: 1
+	Query: "Pleuronectes quadrituberculatus" ; Times: 5
+	Query: "140425" ; Times: 1
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 5
+	Query: "Indostomus paradoxus" ; Times: 5
+	Query: "Hypophthalmichthys nobilis" ; Times: 9
+	Query: "Parahucho perryi" ; Times: 5
+	Query: "Osmerus mordax" ; Times: 5
+	Query: "Lefua echigonia" ; Times: 3
+	Query: "catalognumber:182740" ; Times: 1
+	Query: "Carassius auratus" ; Times: 14
+	Query: "Pseudorasbora parva" ; Times: 12
+	Query: "Siganus fuscescens" ; Times: 5
+	Query: "Engraulis ringens" ; Times: 2
+	Query: "Pseudopleuronectes americanus" ; Times: 5
+	Query: "Hippoglossoides elassodon" ; Times: 5
+	Query: "Anodontostoma chacunda" ; Times: 4
+	Query: "colossoma macropomum" ; Times: 1
+	Query: "catalognumber:012773 institutioncode:UWFC" ; Times: 2
+	Query: "102423" ; Times: 1
+	Query: "B. marmoratus" ; Times: 5
+	Query: "Lutjanus argentimaculatus" ; Times: 5
+	Query: "mesopristes argenteus" ; Times: 2
+	Query: "Decapterus russelli" ; Times: 5
+	Query: "Allosmerus elongatus" ; Times: 5
+	Query: "181465" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "173959" ; Times: 1
+	Query: "Cypselurus oligolepis" ; Times: 5
+	Query: "Prosopium coulterii" ; Times: 2
+	Query: "173957" ; Times: 1
+	Query: "173956" ; Times: 1
+	Query: "173951" ; Times: 1
+	Query: "Spirinchus lanceolatus" ; Times: 5
+	Query: "173953" ; Times: 1
+	Query: "173952" ; Times: 1
+	Query: "celestial" ; Times: 1
+	Query: "Microcottus sellaris" ; Times: 5
+	Query: "Cottus beldingii" ; Times: 7
+	Query: "Gila atraria" ; Times: 2
+	Query: "Cottus perplexus" ; Times: 7
+	Query: "Enophrys diceraus" ; Times: 5
+	Query: "Pholis ornata" ; Times: 5
+	Query: "scientificname:(Coregonus clupeaformis) country:United States mappable:1" ; Times: 1
+	Query: "Parophrys vetulus" ; Times: 5
+	Query: "salmo salar" ; Times: 1
+	Query: "Ambassis buruensis" ; Times: 5
+	Query: "Atule mate" ; Times: 5
+	Query: "Pungitius sinensis" ; Times: 14
+	Query: "Plecoglossus altivelis" ; Times: 5
+	Query: "Hirundichthys speculiger" ; Times: 5
+	Query: "Samariscus" ; Times: 1
+	Query: "locality:puget sound institutioncode:UWFC" ; Times: 1
+	Query: "Hippoglossoides platessoides" ; Times: 5
+	Query: "Cottus pollux" ; Times: 10
+	Query: "Hypomesus pretiosus" ; Times: 5
+	Query: "Hypophthalmus fimbriatus" ; Times: 5
+	Query: "173960" ; Times: 1
+	Query: "173961" ; Times: 1
+	Query: "catalognumber:001391 institutioncode:UWFC" ; Times: 2
+	Query: "101040" ; Times: 1
+	Query: "173966" ; Times: 1
+	Query: "Thaleichthys pacificus" ; Times: 5
+	Query: "Eleotris fusca" ; Times: 9
+	Query: "183613" ; Times: 1
+	Query: "catalognumber:000881 institutioncode:UWFC" ; Times: 2
+	Query: "Cottus asper" ; Times: 10
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Periophthalmus barbarus" ; Times: 5
+	Query: "V. vulpes" ; Times: 5
+	Query: "Microstomus pacificus" ; Times: 5
+	Query: "Myoxocephalus octodecemspinosus" ; Times: 8
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "Hypomesus olidus" ; Times: 5
+	Query: "unicorn" ; Times: 2
+	Query: "Cottus poecilopus" ; Times: 8
+	Query: "Xiphophorus variatus" ; Times: 9
+	Query: "Psettichthys melanostictus" ; Times: 5
+	Query: "Labeo calbasu" ; Times: 5
+	Query: "Carassius carassius" ; Times: 12
+	Query: "catalognumber:163274" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Carangoides orthogrammus" ; Times: 5
+	Query: "121600" ; Times: 2
+	Query: "173970" ; Times: 1
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Coregonus zenithicus" ; Times: 5
+	Query: "Platydoras costatus" ; Times: 6
+	Query: "Ptychocheilus oregonensis" ; Times: 2
+	Query: "Gadus morhua" ; Times: 5
+	Query: "mummy" ; Times: 2
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "Osmerus eperlanus" ; Times: 5
+	Query: "Gymnocorymbus ternetzi" ; Times: 3
+	Query: "Gymnocanthus intermedius" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1171 download events in this period)
+Total number of records downloaded: 696
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Lithuania ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "squatina squatina" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+
+
+End of report.
