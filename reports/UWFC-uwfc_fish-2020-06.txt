@@ -1,0 +1,173 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 563
+Number of records retrieved in searches: 9105
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Ireland ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 514
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-09 ; Times: 9
+	Date: 2020-06-15 ; Times: 68
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 24
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 198
+	Date: 2020-06-11 ; Times: 195
+	Date: 2020-06-17 ; Times: 56
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "Ambassis miops" ; Times: 6
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "Cirrhinus reba" ; Times: 6
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "Cottus beldingii" ; Times: 6
+	Query: "Coregonus clupeaformis" ; Times: 6
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "muraenichthys gymnopterus" ; Times: 1
+	Query: "Stenodus leucichthys" ; Times: 6
+	Query: "Cypselurus poecilopterus" ; Times: 6
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Ambassis buruensis" ; Times: 6
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "genus:Monodactylus hastissue:1" ; Times: 1
+	Query: "Leuciscus waleckii" ; Times: 6
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Esox lucius" ; Times: 8
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Hirundichthys oxycephalus" ; Times: 6
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "family:batrachoididae hastissue:1" ; Times: 4
+	Query: "Dermogenys pusilla" ; Times: 6
+	Query: "Pungitius tymensis" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "Sardinella brachysoma" ; Times: 6
+	Query: "Decapterus kurroides" ; Times: 6
+	Query: "100399" ; Times: 2
+	Query: "Osphronemus goramy" ; Times: 6
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "100499" ; Times: 1
+	Query: "icr" ; Times: 1
+	Query: "Cottus gobio" ; Times: 6
+	Query: "lesueurina platycephala" ; Times: 1
+	Query: "Channa striata" ; Times: 12
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "microlophichthys microlophus" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "pseudalutarius nasicornis" ; Times: 1
+	Query: "Sardinella fimbriata" ; Times: 6
+	Query: "Arius manillensis" ; Times: 6
+	Query: "Siganus spinus" ; Times: 6
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "V-1132" ; Times: 1
+	Query: "percophis brasiliensis" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Salvelinus leucomaenis" ; Times: 6
+	Query: "Ambassis gymnocephalus" ; Times: 6
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Cypselurus opisthopus" ; Times: 6
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "Indostomus paradoxus" ; Times: 6
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Parahucho perryi" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "82441" ; Times: 1
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Cottus ricei" ; Times: 6
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Cypselurus oligolepis" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "Zoarces elongatus" ; Times: 6
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "Cottus perplexus" ; Times: 6
+	Query: "pentherichthys atratus" ; Times: 2
+	Query: "vntype:specimen (batrachoididae) hastissue:1" ; Times: 1
+	Query: "Atule mate" ; Times: 6
+	Query: "Pungitius sinensis" ; Times: 6
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "Cottus asper" ; Times: 6
+	Query: "Clupea harengus" ; Times: 11
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 6
+	Query: "Labeo calbasu" ; Times: 6
+	Query: "Oligolepis acutipennis" ; Times: 3
+	Query: "Carassius carassius" ; Times: 6
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Coregonus zenithicus" ; Times: 6
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "Cottus pollux" ; Times: 6
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "steelhead" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 664
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "sea otter" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+
+
+End of report.
