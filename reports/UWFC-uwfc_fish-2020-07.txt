@@ -1,0 +1,181 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 399
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Philippines ; Times: 2
+	Country: France ; Times: 114
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 8
+	Country: Ecuador ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-02 ; Times: 15
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 11
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 99
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-21 ; Times: 13
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "102105" ; Times: 1
+	Query: "cheilinus undulatus" ; Times: 2
+	Query: "Myctophum obtusirostre mappable:1" ; Times: 1
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 1
+	Query: "Opistognathus maxillosus mappable:1" ; Times: 3
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "101647" ; Times: 2
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 1
+	Query: "Venefica procera mappable:1" ; Times: 1
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 1
+	Query: "r. j. coles" ; Times: 1
+	Query: "Katsuwonus pelamis mappable:1" ; Times: 1
+	Query: "Bullisichthys caribbaeus mappable:1" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "Ctenogobius saepepallens mappable:1" ; Times: 3
+	Query: "Scopeloberyx opisthopterus mappable:1" ; Times: 1
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 2
+	Query: "101273" ; Times: 1
+	Query: "genus:Hypophthalmus" ; Times: 1
+	Query: "173311" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "Diplospinus multistriatus mappable:1" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 2
+	Query: "Mugil trichodon mappable:1" ; Times: 3
+	Query: "Hypophthalmus" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "coles &#34;cape lookout&#34;" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "Seriola rivoliana mappable:1" ; Times: 1
+	Query: "Melanocetus murrayi mappable:1" ; Times: 1
+	Query: "Oxyporhamphus micropterus micropterus mappable:1" ; Times: 1
+	Query: "&#34;russell j. coles&#34; &#34;cape lookout&#34;" ; Times: 1
+	Query: "Malacoctenus macropus mappable:1" ; Times: 1
+	Query: "Caranx sexfasciatus mappable:1" ; Times: 1
+	Query: "Aldrovandia affinis mappable:1" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 2
+	Query: "186157" ; Times: 1
+	Query: "Howella brodiei mappable:1" ; Times: 1
+	Query: "(abernathy)" ; Times: 2
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 3
+	Query: "benthosema pterotum" ; Times: 2
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "Cephalopholis argus mappable:1" ; Times: 2
+	Query: "Stegastes adustus mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 3
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "western toad" ; Times: 1
+	Query: "Risor ruber mappable:1" ; Times: 3
+	Query: "epinephelus malabaricus" ; Times: 2
+	Query: "wizard" ; Times: 3
+	Query: "R. j. coles" ; Times: 1
+	Query: "catalognumber:172049" ; Times: 1
+	Query: "000194" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 3
+	Query: "Russell j. coles" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "Symphysanodon berryi mappable:1" ; Times: 2
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "153035" ; Times: 1
+	Query: "Apogon gouldi mappable:1" ; Times: 2
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "117348" ; Times: 1
+	Query: "Acanthemblemaria spinosa mappable:1" ; Times: 2
+	Query: "polydactylus plebeius" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "Gillellus uranidea mappable:1" ; Times: 3
+	Query: "134064?" ; Times: 1
+	Query: "Malacoctenus erdmani mappable:1" ; Times: 1
+	Query: "101352" ; Times: 2
+	Query: "russell coles" ; Times: 2
+	Query: "Lepidomeda vittata" ; Times: 1
+	Query: "101357" ; Times: 1
+	Query: "gerres oblongus" ; Times: 1
+	Query: "Apogon lachneri mappable:1" ; Times: 2
+	Query: "Aluterus monoceros mappable:1" ; Times: 2
+	Query: "112728" ; Times: 1
+	Query: "catalognumber:116941" ; Times: 1
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 3
+	Query: "176298" ; Times: 1
+	Query: "Malacoctenus gilli mappable:1" ; Times: 1
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 1
+	Query: "ellochelon vaigiensis" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 1
+	Query: "101467" ; Times: 1
+	Query: "Chaunax suttkusi mappable:1" ; Times: 1
+	Query: "Myctophum selenops mappable:1" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 1
+	Query: "Priolepis hipoliti mappable:1" ; Times: 2
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 3
+	Query: "Stegastes leucostictus mappable:1" ; Times: 2
+	Query: "101571" ; Times: 1
+	Query: "russell j. coles" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "117361" ; Times: 1
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 3
+	Query: "Opistognathus macrognathus mappable:1" ; Times: 3
+	Query: "locality:Cape Lookout year &gt;= 1900 year &lt;= 1925" ; Times: 1
+	Query: "Ctenogobius fasciatus mappable:1" ; Times: 3
+	Query: "Liza vaigiensis" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 940 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Hypophthalmus" ; Times: 1
+
+
+End of report.
