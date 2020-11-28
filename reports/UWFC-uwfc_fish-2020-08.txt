@@ -1,0 +1,257 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 290
+Number of records retrieved in searches: 1514
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 54
+	Country: Australia ; Times: 131
+	Country: Honduras ; Times: 6
+	Country: Ireland ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 12
+	Country: France ; Times: 24
+	Country: United Kingdom ; Times: 23
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Peru ; Times: 23
+	Country: Japan ; Times: 3
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-29 ; Times: 8
+	Date: 2020-08-17 ; Times: 5
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 135
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 18
+	Date: 2020-08-11 ; Times: 3
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-26 ; Times: 9
+	Date: 2020-08-19 ; Times: 13
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 5
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-07 ; Times: 13
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-27 ; Times: 8
+	Date: 2020-08-24 ; Times: 6
+	Date: 2020-08-22 ; Times: 4
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 44
+
+List of queries that retrieved data from the resource: 
+	Query: "134043" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "133795" ; Times: 6
+	Query: "134125" ; Times: 1
+	Query: "133593" ; Times: 2
+	Query: "specificepithet:rubrirostris genus:Cataetyx" ; Times: 1
+	Query: "Cottus beldingi stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "117272" ; Times: 1
+	Query: "134336" ; Times: 3
+	Query: "wizard" ; Times: 7
+	Query: "101565" ; Times: 1
+	Query: "Bajacalifornia megalops" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bothragonus" ; Times: 1
+	Query: "135125" ; Times: 6
+	Query: "133705" ; Times: 1
+	Query: "Cottus aleuticus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "133907" ; Times: 1
+	Query: "Cottus marginatus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "scartelaos" ; Times: 1
+	Query: "133759" ; Times: 2
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Istiophorus platypterus" ; Times: 1
+	Query: "133825" ; Times: 4
+	Query: "133824" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 4
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "133498" ; Times: 2
+	Query: "133786" ; Times: 2
+	Query: "133495" ; Times: 2
+	Query: "133497" ; Times: 2
+	Query: "Pungitius tymensis" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:Scartelaos" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "133598" ; Times: 2
+	Query: "Gasterosteus wheatlandi" ; Times: 1
+	Query: "133652" ; Times: 3
+	Query: "133653" ; Times: 2
+	Query: "162720" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "179254" ; Times: 1
+	Query: "162725" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "134326" ; Times: 2
+	Query: "107626" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 1
+	Query: "107622" ; Times: 1
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "133810" ; Times: 1
+	Query: "family:petromyzontidae stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "133815" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "133487" ; Times: 2
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "venefica procera" ; Times: 1
+	Query: "Trachurus mediterraneus" ; Times: 1
+	Query: "134130" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "133599" ; Times: 2
+	Query: "Cottus asper county:&#34;columbia&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "133377" ; Times: 2
+	Query: "Solea solea" ; Times: 2
+	Query: "Brama japonica" ; Times: 3
+	Query: "125180" ; Times: 1
+	Query: "133657" ; Times: 7
+	Query: "Spicara maena" ; Times: 1
+	Query: "133805" ; Times: 1
+	Query: "Sebastes alutus" ; Times: 1
+	Query: "133800" ; Times: 1
+	Query: "133788" ; Times: 4
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "Sebastes alutus vntype:specimen hastissue:1" ; Times: 1
+	Query: "167624" ; Times: 1
+	Query: "115232" ; Times: 1
+	Query: "Cottus confusus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Leptocottus armatus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Lutjanus peru" ; Times: 1
+	Query: "133690" ; Times: 1
+	Query: "133691" ; Times: 1
+	Query: "133618" ; Times: 2
+	Query: "Limanda limanda" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Electrophorus electricus" ; Times: 5
+	Query: "107787" ; Times: 1
+	Query: "Cottus bairdi stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "133878" ; Times: 2
+	Query: "107643" ; Times: 2
+	Query: "133876" ; Times: 2
+	Query: "133877" ; Times: 2
+	Query: "133874" ; Times: 2
+	Query: "134371" ; Times: 2
+	Query: "specificepithet:asper genus:Cottus stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Albula esuncula" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "107797" ; Times: 2
+	Query: "133680" ; Times: 1
+	Query: "133682" ; Times: 1
+	Query: "127745" ; Times: 3
+	Query: "107791" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "Pollachius virens" ; Times: 2
+	Query: "Rainbow snake" ; Times: 1
+	Query: "133906" ; Times: 2
+	Query: "133590" ; Times: 2
+	Query: "133904" ; Times: 2
+	Query: "B. marmoratus" ; Times: 1
+	Query: "133861" ; Times: 2
+	Query: "166358" ; Times: 2
+	Query: "133751" ; Times: 1
+	Query: "133862" ; Times: 2
+	Query: "133867" ; Times: 1
+	Query: "133909" ; Times: 3
+	Query: "107388" ; Times: 1
+	Query: "170489" ; Times: 1
+	Query: "Cottus asper stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "105735" ; Times: 1
+	Query: "008417" ; Times: 2
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "108252" ; Times: 1
+	Query: "133523" ; Times: 2
+	Query: "Caristius" ; Times: 3
+	Query: "107783" ; Times: 1
+	Query: "139918" ; Times: 1
+	Query: "Echiodon exsilium" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "133857" ; Times: 1
+	Query: "133852" ; Times: 1
+	Query: "136360" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "133601" ; Times: 2
+	Query: "133600" ; Times: 2
+	Query: "107662" ; Times: 1
+	Query: "107663" ; Times: 1
+	Query: "133911" ; Times: 1
+	Query: "134314" ; Times: 5
+	Query: "107593" ; Times: 1
+	Query: "Pungitius sinensis" ; Times: 1
+	Query: "genus:Cetomimus" ; Times: 1
+	Query: "coho salmon" ; Times: 1
+	Query: "Membras gilberti" ; Times: 1
+	Query: "135140" ; Times: 1
+	Query: "133520" ; Times: 3
+	Query: "133522" ; Times: 1
+	Query: "Lefua echigonia" ; Times: 1
+	Query: "P. aleuticus" ; Times: 1
+	Query: "vntype:specimen genus:Salmo basisofrecord:PreservedSpecimen hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "107589" ; Times: 2
+	Query: "133782" ; Times: 2
+	Query: "genus:Cataetyx" ; Times: 6
+	Query: "Cottus gulosus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "133540" ; Times: 2
+	Query: "133787" ; Times: 2
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "133789" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "147299" ; Times: 1
+	Query: "133846" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "Anableps dowei" ; Times: 1
+	Query: "133924" ; Times: 5
+	Query: "133925" ; Times: 1
+	Query: "162203" ; Times: 1
+	Query: "162202" ; Times: 1
+	Query: "Fowlerichthys avalonis" ; Times: 1
+	Query: "Aulichthys japonicus" ; Times: 1
+	Query: "125099" ; Times: 2
+	Query: "101570" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 756 download events in this period)
+Total number of records downloaded: 1496
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Norway ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+
+
+End of report.
