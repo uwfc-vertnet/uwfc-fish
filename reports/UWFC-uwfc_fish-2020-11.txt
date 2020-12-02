@@ -1,0 +1,694 @@
+Report for Institution Code UWFC, Resource uwfc_fish
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 963
+Number of records retrieved in searches: 11329
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: United States ; Times: 481
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 44
+	Country: United Kingdom ; Times: 392
+	Country: Jordan ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Belgium ; Times: 9
+	Country: Germany ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Russia ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-21 ; Times: 2
+	Date: 2020-11-22 ; Times: 5
+	Date: 2020-11-23 ; Times: 16
+	Date: 2020-11-24 ; Times: 12
+	Date: 2020-11-25 ; Times: 26
+	Date: 2020-11-08 ; Times: 30
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-06 ; Times: 95
+	Date: 2020-11-07 ; Times: 21
+	Date: 2020-11-04 ; Times: 11
+	Date: 2020-11-05 ; Times: 18
+	Date: 2020-11-02 ; Times: 399
+	Date: 2020-11-03 ; Times: 16
+	Date: 2020-11-01 ; Times: 55
+	Date: 2020-11-26 ; Times: 28
+	Date: 2020-11-27 ; Times: 27
+	Date: 2020-11-28 ; Times: 28
+	Date: 2020-11-29 ; Times: 7
+	Date: 2020-11-19 ; Times: 3
+	Date: 2020-11-18 ; Times: 3
+	Date: 2020-11-30 ; Times: 26
+	Date: 2020-11-15 ; Times: 35
+	Date: 2020-11-14 ; Times: 17
+	Date: 2020-11-17 ; Times: 11
+	Date: 2020-11-16 ; Times: 4
+	Date: 2020-11-10 ; Times: 14
+	Date: 2020-11-13 ; Times: 48
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "Sphyraena jello" ; Times: 1
+	Query: "Naso thynnoides" ; Times: 1
+	Query: "specificepithet:oculatus genus:Icelinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cottus beldingii" ; Times: 1
+	Query: "specificepithet:guttata genus:Scorpaena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 1
+	Query: "specificepithet:atlanticus genus:Diogenichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dictyosoma burgeri" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 2
+	Query: "Atherinomorus insularum" ; Times: 1
+	Query: "specificepithet:stellatus genus:Platichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coenosus genus:Pleuronichthys stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "117168" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "genus:Iniistius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:leiops genus:Xeneretmus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "154784" ; Times: 1
+	Query: "specificepithet:lentiginosus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:entomelas genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lutjanus fulvus" ; Times: 2
+	Query: "genus:Lamprogrammus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 3
+	Query: "Chirolophis japonicus" ; Times: 1
+	Query: "Decapterus macrosoma" ; Times: 2
+	Query: "specificepithet:paucispinis genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "specificepithet:atropurpureus genus:Xiphister stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Elassodiscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "specificepithet:endemoscotus genus:Lycodapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:altivelis genus:Trachipterus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "CM 133686" ; Times: 1
+	Query: "specificepithet:cortezianus genus:Lycodes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:nebulifer genus:Paralabrax stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Stethojulis interrupta" ; Times: 3
+	Query: "specificepithet:atraria genus:Cyclothone stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "specificepithet:rastrelliger genus:Physiculus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Stomias atriventer" ; Times: 1
+	Query: "Monodactylus argenteus" ; Times: 5
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "genus:Lyconema stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Cryptacanthodes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Caranx sexfasciatus" ; Times: 2
+	Query: "genus:Cryptopsaras stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nannochir genus:Stenobrachius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 2
+	Query: "specificepithet:pulchellus genus:Liparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:Angel Island country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:114643" ; Times: 2
+	Query: "genus:Aphanopus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:114639" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "Salvelinus leucomaenis leucomaenis" ; Times: 1
+	Query: "specificepithet:fierasfer genus:Lycodapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sialis genus:Argentina stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Anotopterus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Strongylura stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "070166" ; Times: 1
+	Query: "070167" ; Times: 1
+	Query: "Elates ransonnettii" ; Times: 1
+	Query: "specificepithet:burchami genus:Icelinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Isopsetta stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maeandricus genus:Gobiesox stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Plectobranchus evides" ; Times: 1
+	Query: "specificepithet:taylori genus:Chilara stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Plectobranchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:fenestralis genus:Artedius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acanthopagrus latus" ; Times: 2
+	Query: "genus:Rhinoliparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Physiculus stateprovince:&#34;California&#34; distance(location,geopoint(33.03142530786606,-117.50244140625))&lt;50444.11793884752" ; Times: 1
+	Query: "Bodianus bilunulatus" ; Times: 1
+	Query: "specificepithet:brunneus genus:Apristurus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Kuwait" ; Times: 2
+	Query: "Pisodonophis cancrivorus" ; Times: 3
+	Query: "specificepithet:rubrivinctus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Oxyporhamphus micropterus" ; Times: 1
+	Query: "Megalaspis cordyla" ; Times: 5
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Cypselurus opisthopus" ; Times: 1
+	Query: "specificepithet:laevis genus:Malacocephalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:argipalla genus:Maulisia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "rainbow snake" ; Times: 2
+	Query: "specificepithet:rubellio genus:Oligocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Icichthys stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Pterois volitans" ; Times: 3
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "Lefua echigonia" ; Times: 1
+	Query: "Siganus fuscescens" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Gadus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flemingi genus:Bathophilus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Tetragonurus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Gerres oyena" ; Times: 1
+	Query: "Chrosomus eos" ; Times: 1
+	Query: "110051" ; Times: 1
+	Query: "Sillago sihama" ; Times: 5
+	Query: "Platycephalus indicus" ; Times: 3
+	Query: "specificepithet:rastrelliger genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:cephalus genus:Paraliparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eleotris melanosoma" ; Times: 2
+	Query: "genus:Ronquilus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:flemingi genus:Bathophilus distance(location,geopoint(32.700495616813235,-117.19482421875))&lt;100000" ; Times: 1
+	Query: "Cymolutes praetextatus" ; Times: 3
+	Query: "specificepithet:candida genus:Nansenia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ovigerus genus:Careproctus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Naso lopezi" ; Times: 2
+	Query: "Zoarces elongatus" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 4
+	Query: "genus:Gigantura stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "155412" ; Times: 1
+	Query: "specificepithet:eos genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gerres filamentosus" ; Times: 2
+	Query: "specificepithet:microlepis genus:Antimora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gymnogobius opperiens" ; Times: 1
+	Query: "specificepithet:alascanus genus:Sebastolobus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "specificepithet:panamensis genus:Borostomias stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "155417" ; Times: 1
+	Query: "Gobio soldatovi" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 2
+	Query: "specificepithet:parvus genus:Melamphaes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Gnatholepis anjerensis" ; Times: 3
+	Query: "specificepithet:proriger genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Petroscirtes mitratus" ; Times: 2
+	Query: "Eleotris fusca" ; Times: 2
+	Query: "Petroscirtes variabilis" ; Times: 1
+	Query: "mappable:1 scientificname:Solea solea" ; Times: 2
+	Query: "Cobitis lutheri" ; Times: 2
+	Query: "specificepithet:tshawytscha genus:Oncorhynchus month &gt;= 1 month &lt;= 8 haslifestage:1 haslength:1" ; Times: 4
+	Query: "Aphareus furca" ; Times: 2
+	Query: "specificepithet:larseni genus:Nemichthys stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "146901" ; Times: 1
+	Query: "118270" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "specificepithet:scrippsae genus:Ophidion stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Atheresthes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Zaniolepis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "genus:Aulorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tactostoma macropus" ; Times: 1
+	Query: "specificepithet:latifrons genus:Xeneretmus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:pectoralis genus:Albatrossia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Mirorictus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Orthonopias stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Scopelosaurus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "Lutjanus guttatus" ; Times: 1
+	Query: "specificepithet:abyssicola genus:Bathyraja stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:notospilotus genus:Artedius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:serriceps genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anoplogaster stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Syngnathus typhle" ; Times: 2
+	Query: "specificepithet:ritteri genus:Nannobrachium stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:compressa genus:Anchoa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:trachura genus:Bathyraja stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 2
+	Query: "133939" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "Oncorhynchus clarkii" ; Times: 1
+	Query: "Megalops cyprinoides" ; Times: 2
+	Query: "specificepithet:zacentrus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Parexocoetus brachypterus" ; Times: 2
+	Query: "Leuciscus waleckii" ; Times: 2
+	Query: "specificepithet:serranoides genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rosaceus genus:Paraliparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Carangoides ferdau" ; Times: 1
+	Query: "Elops hawaiensis" ; Times: 1
+	Query: "specificepithet:fimbriatus genus:Icelinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rosaceus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:hopkinsi genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eremichthys acros" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus leucomaenis" ; Times: 3
+	Query: "specificepithet:micropora genus:Lycenchelys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:goodei genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:decagrammus genus:Hexagrammos stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Sphyraena obtusata" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 2
+	Query: "Lutjanus rufolineatus" ; Times: 1
+	Query: "180302" ; Times: 1
+	Query: "Trachyrhamphus serratus" ; Times: 2
+	Query: "specificepithet:rhodoterus genus:Amphistichus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ammodytes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lutjanus kasmira" ; Times: 2
+	Query: "genus:Kasatkia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:melanostomus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:lugubris genus:Melamphaes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Selaroides leptolepis" ; Times: 1
+	Query: "specificepithet:infans genus:Avocettina stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "specificepithet:pinniger genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hucho hucho" ; Times: 2
+	Query: "specificepithet:bifurcata genus:Talismania stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oxylebius pictus" ; Times: 1
+	Query: "genus:Venefica stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "specificepithet:thompsoni genus:Protomyctophum stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ensifer genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Pollachius virens" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 3
+	Query: "specificepithet:insignis genus:anoplarchus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Sardinella gibbosa" ; Times: 1
+	Query: "specificepithet:mento genus:Paraliparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:emphaeus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:chlorostictus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Betta splendens" ; Times: 1
+	Query: "Priacanthus tayenus" ; Times: 2
+	Query: "genus:Medialuna stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "Lethrinus microdon" ; Times: 1
+	Query: "genus:Protomyctophum stateprovince:&#34;California&#34; distance(location,geopoint(32.95770949843339,-117.7880859375))&lt;100000" ; Times: 1
+	Query: "genus:Pontinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chitonotus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Leptoscarus vaigiensis" ; Times: 3
+	Query: "Siganus spinus" ; Times: 1
+	Query: "specificepithet:atlantica genus:Magnisudis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Stellerina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cephalopholis cyanostigma" ; Times: 2
+	Query: "specificepithet:recalvus genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Paraplagusia bilineata" ; Times: 2
+	Query: "specificepithet:kincaidii stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:alutus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:dallii genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:deani genus:Eptatretus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Xiphister stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Hemilepidotus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Lethrinus mahsena" ; Times: 1
+	Query: "CM 9873" ; Times: 2
+	Query: "Anabas testudineus" ; Times: 2
+	Query: "Atherinomorus lacunosus" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus haslifestage:1 haslength:1" ; Times: 2
+	Query: "specificepithet:pacificus genus:Bathylagus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Rhodeus sericeus" ; Times: 2
+	Query: "specificepithet:asprellus genus:Radulinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ruberrimus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:camchatica genus:Lycenchelys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:latipinnis genus:Zaniolepis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:maculosus genus:Oligocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "genus:Glyptocephalus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:rosenblatti genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Cottus ricei" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 2
+	Query: "genus:anoplarchus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "specificepithet:roncador genus:Umbrina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:wesethi genus:Bathylagus month &gt;= 4 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:ditropis genus:Lamna haslifestage:1 haslength:1" ; Times: 1
+	Query: "Cypselurus oligolepis" ; Times: 1
+	Query: "Stiphodon pelewensis" ; Times: 1
+	Query: "Snakehead" ; Times: 1
+	Query: "specificepithet:miniatus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:aurora genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Scomberoides lysan" ; Times: 1
+	Query: "specificepithet:exilis genus:Bathylychnops stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 1
+	Query: "genus:Hyporhamphus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Elagatis bipinnulatus" ; Times: 1
+	Query: "Pegasus volitans" ; Times: 1
+	Query: "specificepithet:Salar genus:Salmo haslength:1" ; Times: 1
+	Query: "Atherinomorus pinguis" ; Times: 1
+	Query: "122413" ; Times: 1
+	Query: "Coris julis" ; Times: 1
+	Query: "specificepithet:phrictus genus:Psychrolutes" ; Times: 1
+	Query: "genus:Physiculus stateprovince:&#34;California&#34; distance(location,geopoint(33.14188347523051,-117.6123046875))&lt;50444" ; Times: 1
+	Query: "specificepithet:mystinus genus:Sebastes" ; Times: 2
+	Query: "Cobitis biwae" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "specificepithet:pelecanoides genus:Eurypharynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thysanophrys chiltonae" ; Times: 2
+	Query: "genus:Allocyttus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Atherinomorus endrachtensis" ; Times: 1
+	Query: "mappable:1 scientificname:Gadus morhua" ; Times: 1
+	Query: "specificepithet:pachysoma genus:Lycodapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Brachyistius stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:gilberti genus:Careproctus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ovalis genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Ceratias stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hemiramphus marginatus" ; Times: 2
+	Query: "149319" ; Times: 1
+	Query: "genus:Bertella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nigripinnis genus:Bathyagonus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Salar genus:Salmo haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:stenolepis genus:Hippoglossus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:melanops genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cottus pollux" ; Times: 1
+	Query: "genus:Gobiosoma family:Gobiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Trachinotus mookalee" ; Times: 1
+	Query: "specificepithet:meanyi genus:Ruscarius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:carnatus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:trachura stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "106376" ; Times: 1
+	Query: "gymnogobius isaza" ; Times: 1
+	Query: "genus:Gigantactis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "genus:Scytalina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:productus genus:Merluccius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 3
+	Query: "151490" ; Times: 1
+	Query: "catalognumber:114641" ; Times: 1
+	Query: "catalognumber:114642" ; Times: 2
+	Query: "genus:Eucryphycus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "117175" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Kyphosus cinerascens" ; Times: 2
+	Query: "specificepithet:mandibularis genus:Lycodapus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Pterois volitans haslength:1" ; Times: 1
+	Query: "specificepithet:scaphopsis stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "specificepithet:elongatus genus:Ophiodon stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "genus:Hypsurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:scolopaceus genus:Nemichthys stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:sapidissima genus:Alosa stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Eumesogrammus praecisus" ; Times: 1
+	Query: "Platax orbicularis" ; Times: 2
+	Query: "Cephalopholis urodeta" ; Times: 2
+	Query: "Ammodytes hexapterus" ; Times: 2
+	Query: "Gazza minuta" ; Times: 5
+	Query: "Cobitis taenia" ; Times: 8
+	Query: "specificepithet:fucensis genus:Liparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Trachinotus blochii" ; Times: 1
+	Query: "specificepithet:argenteum genus:Hyperprosopon stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Upeneus tragula" ; Times: 3
+	Query: "genus:Euprotomicrus" ; Times: 1
+	Query: "Gobio gobio" ; Times: 4
+	Query: "specificepithet:elassodon genus:Hippoglossoides stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "specificepithet:diploproa genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:stilbius genus:Bathylagus" ; Times: 2
+	Query: "Siphateles bicolor" ; Times: 1
+	Query: "Psettodes erumei" ; Times: 1
+	Query: "specificepithet:semicinctus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Fodiator stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Paraplagusia japonica" ; Times: 3
+	Query: "Leuciscus leuciscus" ; Times: 3
+	Query: "Margariscus margarita" ; Times: 1
+	Query: "genus:Melanonus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Coelorinchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:diapterus genus:Lycodes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 2
+	Query: "Epinephelus fuscoguttatus" ; Times: 2
+	Query: "genus:Melanostigma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "genus:Euleptorhamphus" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "specificepithet:delicatissima genus:Anchoa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:filifer genus:Coryphaenoides stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Cephalopholis leopardus" ; Times: 2
+	Query: "Caranx ignobilis" ; Times: 2
+	Query: "Acanthurus leucopareius" ; Times: 1
+	Query: "specificepithet:rufus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dactylosus genus:Paraliparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Icosteus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Plicomugil labiosus" ; Times: 1
+	Query: "genus:Xenistius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Psettichthys stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Stenotomus chrysops" ; Times: 2
+	Query: "Cephalopholis sonnerati" ; Times: 2
+	Query: "Remora remora" ; Times: 1
+	Query: "genus:Theragra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mucosus genus:Liparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:Hexagrammos stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pachycara stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Amblygobius phalaena" ; Times: 2
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "Parastromateus niger" ; Times: 1
+	Query: "Bothus pantherinus" ; Times: 3
+	Query: "specificepithet:japonica genus:Brama stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Trachurus japonicus" ; Times: 1
+	Query: "specificepithet:atrovirens genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:flavidus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lethrinus lentjan" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "specificepithet:wesethi genus:Bathylagus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Decapterus macarellus" ; Times: 2
+	Query: "specificepithet:ellipticum genus:Hyperprosopon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Vulpes vulpes stateprovince:new york" ; Times: 7
+	Query: "specificepithet:sector genus:Serrivomer stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "specificepithet:flavidus genus:Apodichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:leptorhynchus genus:Syngnathus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:jordani genus:Lycenchelys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "128856" ; Times: 1
+	Query: "specificepithet:muscarum genus:Rimicola stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maliger genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:resplendens genus:Notoscopelus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:indica genus:Kali stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:eigenmanni genus:Rimicola stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dactyloptena orientalis" ; Times: 2
+	Query: "genus:Sagamichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Parahucho perryi" ; Times: 2
+	Query: "Syngnathoides biaculeatus" ; Times: 3
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 2
+	Query: "genus:Oneirodes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "147478" ; Times: 3
+	Query: "Cottus perplexus" ; Times: 1
+	Query: "specificepithet:pentacanthus genus:Bathyagonus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rhinoptera steindachneri" ; Times: 3
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Hucho" ; Times: 1
+	Query: "specificepithet:constellatus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:urophaos genus:Lampadena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Mulloidichthys vanicolensis" ; Times: 2
+	Query: "Tylosurus crocodilus" ; Times: 3
+	Query: "specificepithet:wilsoni genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:Citharichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 3
+	Query: "genus:Cebidichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:argenteus genus:Amphistichus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:acanthias genus:Oneirodes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:levis genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Psammogobius biocellatus" ; Times: 1
+	Query: "specificepithet:microstoma genus:Macropinna stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:tenebrosus genus:Alepocephalus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "sphaeramia orbicularis" ; Times: 1
+	Query: "genus:Eopsetta stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Somniosus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:pectoralis genus:Paraliparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 3
+	Query: "specificepithet:saxicola genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Caranx melampygus" ; Times: 2
+	Query: "Cynoglossus puncticeps" ; Times: 3
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "specificepithet:crameri genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "genus:Anarrhichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Zesticelus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "petroscirtes variabilis" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 2
+	Query: "specificepithet:harringtoni genus:Artedius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "168435" ; Times: 1
+	Query: "genus:Atractoscion stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Suckermouth Catfish" ; Times: 1
+	Query: "Ariosoma anago" ; Times: 1
+	Query: "specificepithet:tshawytscha genus:Oncorhynchus haslifestage:1 haslength:1" ; Times: 1
+	Query: "genus:Oxylebius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Salmo salar" ; Times: 5
+	Query: "specificepithet:aurora genus:Micrometrus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:umbrosus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Crossorhombus valderostratus" ; Times: 1
+	Query: "Scomberoides tol" ; Times: 1
+	Query: "Caesio lunaris" ; Times: 1
+	Query: "specificepithet:simulator genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:melanosema genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cypselurus poecilopterus" ; Times: 1
+	Query: "Lutjanus vitta" ; Times: 1
+	Query: "specificepithet:stelgidolepis genus:Nezumia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Synchiropus splendidus" ; Times: 2
+	Query: "Lepidotrigla guentheri" ; Times: 1
+	Query: "specificepithet:symmetricus genus:Trachurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:crotalinus genus:Lycenchelys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:chrysomelas genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:melanurus genus:Careproctus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:normani genus:Kali stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Selene setapinnis" ; Times: 1
+	Query: "specificepithet:wesethi genus:Bathylagus month &gt;= 7 month &lt;= 9" ; Times: 2
+	Query: "genus:Salmo haslifestage:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:nigrum genus:Centroscyllium stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "151488" ; Times: 1
+	Query: "specificepithet:cavifrons genus:Icelinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hirundichthys oxycephalus" ; Times: 1
+	Query: "scientificname:Alosa alosa" ; Times: 20
+	Query: "Pterocaesio marri" ; Times: 1
+	Query: "genus:Bothrocara stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Scomberoides tala" ; Times: 1
+	Query: "genus:Physiculus stateprovince:&#34;California&#34; distance(location,geopoint(33.14188347523051,-117.6123046875))&lt;64948" ; Times: 1
+	Query: "Brachymystax" ; Times: 1
+	Query: "genus:Caristius stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Pholis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "119504" ; Times: 1
+	Query: "specificepithet:bilineata genus:Lepidopsetta stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:jordani genus:Caulophryne stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Apodichthys fucorum" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "Gnathanodon speciosus" ; Times: 2
+	Query: "specificepithet:proximus genus:Microgadus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "175101" ; Times: 1
+	Query: "specificepithet:sapidissima genus:Alosa haslifestage:1 haslength:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:Coryphaenoides stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:Salar genus:Salmo haslifestage:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "177972" ; Times: 1
+	Query: "specificepithet:tshawytscha genus:Oncorhynchus month &gt;= 9 month &lt;= 11 haslifestage:1 haslength:1" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Polydactylus sextarius" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "genus:Cataetyx stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "genus:Enophrys stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:pacificus genus:Lycodes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pelates quadrilineatus" ; Times: 6
+	Query: "110052" ; Times: 2
+	Query: "xiphasia setifer" ; Times: 1
+	Query: "Petroscirtes breviceps" ; Times: 3
+	Query: "genus:Malacocephalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Halargyreus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mykiss stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "genus:Howella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 1
+	Query: "Moringua microchir" ; Times: 2
+	Query: "Kyphosus vaigiensis" ; Times: 1
+	Query: "Pterocaesio tile" ; Times: 1
+	Query: "specificepithet:acrolepis genus:Coryphaenoides stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Salmo trutta" ; Times: 2
+	Query: "Samaris cristatus" ; Times: 1
+	Query: "specificepithet:niger genus:Chiasmodon stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "177359" ; Times: 3
+	Query: "Labroides dimidiatus" ; Times: 2
+	Query: "Terapon jarbua" ; Times: 4
+	Query: "Thymallus thymallus" ; Times: 1
+	Query: "Crenimugil crenilabis" ; Times: 2
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Arothron hispidus" ; Times: 6
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "specificepithet:dermatinus genus:Lycodapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:caurinus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:polylepis genus:Balistes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambassis gymnocephalus" ; Times: 2
+	Query: "scientificname:Bison bison" ; Times: 6
+	Query: "genus:Anoplopoma stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "pantera" ; Times: 1
+	Query: "165639" ; Times: 1
+	Query: "specificepithet:crassiceps genus:Poromitra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lutjanus decussatus" ; Times: 1
+	Query: "specificepithet:babcocki genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cheilio inermis" ; Times: 2
+	Query: "genus:Chiasmodon stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:rimensis genus:Oligocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Parmaturus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Melanocetus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 1
+	Query: "specificepithet:florae genus:Liparis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lethrinus nebulosus" ; Times: 2
+	Query: "specificepithet:filamentosus genus:Icelinus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Carassius carassius" ; Times: 1
+	Query: "genus:Dolopichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitsuii genus:Opostomias stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macdonaldi genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anarhichas orientalis" ; Times: 1
+	Query: "catalognumber:137605" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Artedius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lutjanus argentimaculatus" ; Times: 4
+	Query: "113593" ; Times: 1
+	Query: "Odonus niger" ; Times: 2
+	Query: "Caesio caerulaurea" ; Times: 2
+	Query: "specificepithet:macropus genus:Tactostoma stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Lutjanus fulviflamma" ; Times: 5
+	Query: "Leptoclinus maculatus" ; Times: 1
+	Query: "Carangoides malabaricus" ; Times: 1
+	Query: "165926" ; Times: 1
+	Query: "apogonichthys perdix" ; Times: 1
+	Query: "genus:Chaenophryne stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "specificepithet:anale genus:Hyperprosopon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sander canadensis" ; Times: 2
+	Query: "Hexagrammos otakii" ; Times: 1
+	Query: "Ellochelon vaigiensis" ; Times: 5
+	Query: "specificepithet:jordani genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:triacanthus genus:Xeneretmus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chirocentrus dorab" ; Times: 1
+	Query: "genus:Prionotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Spinachia spinachia" ; Times: 3
+	Query: "Lamna ditropis" ; Times: 4
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "specificepithet:exilis genus:Lyopsetta stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Sicyopterus stimpsoni" ; Times: 2
+	Query: "specificepithet:liolepis genus:Nezumia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taylori genus:Tarletonbeania stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Atule mate" ; Times: 2
+	Query: "Hirundichthys speculiger" ; Times: 1
+	Query: "genus:Facciolella stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:dentata genus:Benthalbella stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Cottus asper" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 1
+	Query: "specificepithet:interrupta stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:interrupta genus:Bathyraja stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "182330" ; Times: 1
+	Query: "specificepithet:chalcogramma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:microstoma genus:Microstoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:infraspinatus genus:Bathyagonus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:helvomaculatus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Entosphenus tridentatus" ; Times: 1
+	Query: "Rhinogobius brunneus" ; Times: 1
+	Query: "specificepithet:kampae genus:Apristurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 2
+	Query: "genus:Lepidopus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pallasii genus:Clupea stateprovince:&#34;California&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 842 download events in this period)
+Total number of records downloaded: 761
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Jordan ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-17 ; Times: 3
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 2
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "genus:Zaniolepis" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Kuwait" ; Times: 2
+	Query: "Bison bison" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+
+
+End of report.
